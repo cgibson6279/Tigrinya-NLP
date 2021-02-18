@@ -3,7 +3,7 @@ import os
 import txt_processing as tp
 
 def main():
-    #give the pdf directory path for pdf_to_text.py
+    # command: 'python3 data/code/pdf_to_text.py data/pdfs' from Tigrinya-NLP
     tsv_path = sys.argv[1]
 
     #run through files in a directory
