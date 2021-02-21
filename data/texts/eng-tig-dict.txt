@@ -1,0 +1,3591 @@
+a little - (adv) ንእሽቶይ, ቁሩብ, ውሕድ
+a long time - (adv) ነዊሕ ግዝ 
+a lot - (adv) ብዙሕ 
+abandon - (v)  ገደፈ, ረጥረጠ 
+abandonment - (n) ርጥረጣ 
+abbot - (n) ኣባ 
+ability - (n) ጥበብ, ክእለት, ብቕዓት 
+able - (a) ጥበባዊ, ክእለታዊ 
+above - (adv) ኣብ ልዕሊ 
+abrupt - (n) ሃንደበት 
+abruptly - (adv) ብጋህዲ 
+abscess - (n) ሓገል 
+absence - (n) ብኩራት 
+absent *from oneself* - (v) ቦኾረ
+absent - (a) ብኹር 
+absent minded - (a) ዝንጉዕ 
+absent mindedness - (n) ምዝንጋዕ 
+absolute - (a) ፍጹም 
+absolutely - (adv) ብፍጹም 
+absolve - (v) ፈተሐ 
+abundance - (n) ታዐሚ, እኹል ተረፍ
+abuse - (n)  በደል, ጸርፊ 
+abuse - (v) ጸረፈ 
+abusive - (a) በደላዊ 
+abusively - (a) ብድላ 
+accept - (v) ተቐበለ 
+accident - (n) ሓደጋ 
+accidental - (a) ሓደጋዊ, ሃንደበታዊ 
+accidentally - (a) ብሓደጋ 
+acclaim - (v) ኣጨብጨበ 
+acclamation - (n) ውዕውዕ ደገፍታ 
+accompany - (v) ኣሰነየ 
+account - (n) ሕሳብ 
+accuracy - (n) ሓቂ, ልክዕ, ቅኑዕ, ልክዕነት
+accurate - (a) ሓቓዊ, ልክዓዊ, ቕንዓዊ 
+accurately - (a) ብሓቂ, ብልክዕ, ብቑኑዕ
+accusation - (n) ወከሰ, ክሲ 
+accuse - (v) ምውካስ, ከሰሰ 
+accuser - (nf) ወካሲት, ከሳሲት 
+accuser - (nm) ወካሲ, ከሳሲ 
+accusers - (np) ወከስቲ, ከሰስቲ
+accustomed, get - (v) ኣልመደ 
+ache - (n) ቓንዛ 
+achieve - (v) ፈጸመ 
+achievement - (n) ጭብጢ 
+aching - (a) መቐንዘዊ 
+achy - (a) ቓንዛዊ 
+acidic - (a) መጺጽ 
+acorn - (n) ፍረ ኦክ 
+acquaint - (v) ምልላይ, ምፍላጥ 
+acquaintance - (n) ሌላ, ፍልጠት  
+acquire - (v) ረኸበ 
+acquit - (v) ፈተሐ, ንጹህ, ቕንዕና  
+acquittal - (n) ምኽፋል ዕዳ, ዘይበደለኛ, ቑኑዕ
+act - (v) ገበረ, ምግባር, ምትውሳእ 
+action - (n) ተግባር, ግብሪ 
+actively - (a) ተግባራዊ, ግብራዊ 
+activity - (n) ንጥፈት, ስራሕ 
+actor - (nm) ተዋሳአይ 
+actors - (pl) ተዋሰእቲ 
+actress - (nf) ተዋሳኢት 
+actresses - (pl) ተዋሰእቲ 
+add - (v) ደመረ 
+addition - (n) ምድማር 
+address - (n) ኣድራሻ 
+addressee - (n) ተቐባላይ 
+adjacent - (an) ጎረቤት 
+adjust - (v) ተቖጻጸረ, ምልዋጥ, ምዕራይ, ምቑጽጻር
+administer - (v) ኣምሓደረ 
+administration - (n) ምምሕዳር 
+administrations - (n) ምምሕዳራት 
+administrator - (nf) አማሓዳሪት 
+administrator - (nm) አማሓዳሪ  
+administrators - (npl) አማሓደርቲ  
+admirable - (a) ድንቂ 
+admiration - (n) ኣድንቖት 
+admire - (v) ኣድነቐ 
+admit - (v) ተኣመነ 
+adolescence - (n) ጉብዝና 
+adorable - (af) ኣደናቒት, ምጩውቲ 
+adorable - (am) ኣደናቒ, ምጩይ  
+adore - (v) ኣምለኸ, ምድናቕ, ምድማጽ
+advance - (n) ቅድሚት
+advantage - (n) ረብሓ 
+adventure - (n) ዕንደራ 
+adversary - (n) ተጻራሪ 
+advertisement - (n) ረክላም 
+advice - (n) ምኽሪ 
+advise - (v) መኸረ 
+adviser - (nm) ኣማኻሪ 
+advocate - (n) ጠበቓ, ወከል, ሐገዝ 
+advocate - (v) ምውካል, ምሕጋዝ 
+advocator - (nf) ወካሊት, ሐጋዚት  
+advocator - (nm) ወካሊ, ሓጋዚ  
+advocator - (npl) ወከልቲ, ሓገዝቲ  
+aerate - (v) ኣናፈሰ 
+affect - (v) ሳዕቤን, ተንከፈ 
+affection - (n) ስምዒት, ፍቕሪ 
+affectionate - (a) ስምዒታዊ, ፈቃር 
+affirm - (v) ምርግጋጽ, ኣመስለ 
+affirmable - (a) ርግጻዊ 
+affirmably - (adv) ብርግጽ 
+afford - (v) ምኽኣል, ኪኸፍል 
+affordable - (a) ክኣል  
+afraid, be - (v) ፈርሐ 
+after - (adv) ድሕሪ ሓጺር ግዜ 
+afterwards - (adv) ቀጺሉ 
+afterwards - (prep) ድሓር 
+age - (n) ዕድመ ሂወት 
+age - (v) ኣረገ 
+aged - (an) ኣረጊት 
+agency - (nf) ወካሊት  
+agency - (nm) ወካሊ  
+agency - (npl) ወከልቲ 
+agile - (a) ንጡፍ 
+agitate - (v) ምዕግርጋር 
+agitation - (n) ዕግርግር, ረብሻ 
+agony - (n) ጭንቀት 
+agree - (v) ምስምማዕ, ተሰማምዐ 
+agreeable - (a) ዝሰማማዕ 
+agreement - (n) ስምምዕ 
+agricultural - (a) ሕርሻዊ 
+agriculture - (n) ሕርሻ 
+ahead - (adv) ብቕድሚ 
+aid - (n) ረዲኤት 
+aim - (v) ሃቀነ 
+aim at - (v) ጨመተ 
+air - (n) ንፋስ, ኣየር
+airplane - (n) ነፋሪት 
+airport - (n) መዕረፍ ነፈርቲ 
+alarm - (n) መጠንቀቕታ, መጠንቐቕታ, መሰማዕታ, ቓጭል
+alarm - (v) ምጥንቓቕ  
+alight (set) - (v) ተባርዐ 
+align - (v) ረበበ, ምግጣም, ምስራዕ 
+alive - (a) ሂወታዊ 
+alive, be - (v) ነበረ, ምህላው, ምትንፋስ
+all - (adv) ኩሉ 
+alliance - (n) ኪዳን, ምሕዝና, ምሕዝነት
+allow - (v) ኣፍቀደ 
+alone - (a) እንኮ ንብሕቶ, ጽሙዋ 
+alphabet - (n) ፈደል 
+already - (n adv) ድሮ 
+always - (adv) ኩሉ ግዜ 
+amateur - (n) ተልመደን 
+amaze - (v) ኣገረመ, ምግራም, ምድናቕ
+amazed - (a) ኣገራሚ, ኣደናቒ 
+amazedly - (adv) ብምግራም, ብምድናቕ
+amazing - (a) ሃንደበታዊ 
+ambition - (n) ትምኒት 
+ambulance - (n) ኣምቡላንስ 
+amenable - (a) ምእዙዝ 
+amends - (n) ጽገና 
+amount - (n) ድምር, ክንደይ 
+ample - (a) ገፊሕ 
+amuse - (v) ኣስሓቐ, ኣዘናገዐ, ምስሓቕ, ምዝንጋዕ, ምጽዋት
+amusement - (n) ምዝንጋዕ, መዛናጋዒ, መስሓቒ, መጻወቲ
+amusing - (a) መስሓቕ 
+ancestor - (n) ወለዶ 
+ancient - (a) ጥንታዊ 
+angel - (n) መልኣኽ 
+anger - (n) ሕርቓን, ኩራ 
+anger - (v) ምሕራቕ, ምኹራይ 
+angle - (n) ኩርናዕ 
+angry - (a) ሓራቕ, ኾራዪ  
+angry - (af) ኾራይት, ኩርፍፍቲ 
+angry - (am) ኾርፋፍ  
+anguish - (n) ጭንቀት 
+animal - (n) እንስሳ 
+animate - (v) ህይወት ሃበ 
+ankle - (n) ግንቦ እግሪ, ኩርናዕ እግሪ 
+announce - (v) ኣወጀ
+announcement - (n) መግለጺ, ታእዋጅ, መልእኽቲ
+annoy - (v) ኣሕረቐ 
+annoyed, get - (v) ኮረየ 
+annual - (a) ዓመታዊ 
+answer - (n) መልሲ 
+answer - (v) መለሰ 
+ant - (n) ጻጸ 
+antenna - (n) ቅርኒብ ሓሸራ 
+ant hill - (n) ጉላ 
+anticipated - (a) ኣቐዲምካ ዝግበር 
+antique - (a) ጥንታዊ 
+antiquity - (n) ጥንቲ 
+anvil - (n) ወጸቓ 
+anxiety - (n) ሃንቀውታ, ጭንቀት, ሽግርግር
+anxiety, have - (v) ተሻቐለ 
+anxious - (a) ሽጉር 
+any - (adv) ኩሉ 
+anybody - (n) ሰብ 
+anything - (adv) ገለኳ 
+apartment - (n) ገዛ 
+apologize - (v) ይቕረታ ሓተተ 
+appalling - (a) ኣሰንባዲ, ኣገራሚ, ኣደናቒ
+apparatus - (n) መሳርሒ 
+appeal - (n) ይግባይ, ሕቶ 
+appeal - (v) ምሕታት 
+appear - (v) ተራእየ 
+appear suddenly - (v) ተቐልቀለ 
+appearance - (n) ምቕልቃል 
+appease - (v) ኣህደአ 
+applaud - (v) ኣንጨብጨበ, ምጥቓዕ, ምምስጋን
+applauder - (nf) ኣጣቓዒት 
+applauder - (nm) ኣጣቓዓይ 
+applauder - (npl) መጣቐዕቲ 
+applause - (n) ጨብጨብታ, ጣቕዒት 
+apple - (n) ቱፋሕ, ቱፋህ, ሜለ 
+apple tree - (n) ቱፋሕ ገረብ 
+application - (n) ተገዳስነት 
+applied - (a) ትጉህ 
+apply - (v) ሓተተ 
+apply for - (vn) ጠለበ 
+appoint - (v) ሰየመ 
+appointment - (n) ቆጸራ 
+appraise - (v) ገመተ 
+appreciable - (a) ተነካኢ, ፉሉጥ, ሞገስ
+appreciate - (v) ኣሞገሰ, ምምስጋን  
+apprenticeship - (n) ልምምድ
+approach - (v) ቀረበ 
+approval - (n) ምጽዳቕ 
+approve of - (v) ኣጽደቐ 
+apricot tree - (n) ሚሽሚሽ ገረብ 
+April - (n) ሚያዝያ 
+apron - (n) ግርምብያለ 
+aptitude - (n) ቅሊ 
+arc - (n) ቀሸም, ቀስቲ 
+ardent - (a) ረሳን 
+area - (n) ዞባ, ቦታ 
+argue - (v) ተኻትዐ, ምክታዕ, ምቁያቕ 
+arithmetic - (n) ቁጽሪ 
+arm - (n) ቅልጽም 
+arm - (v) ኣዕጠቐ 
+armchair - (n) ኩርሲ 
+armistice - (a) ግዚያዊ 
+arms - (n) የእዳዎ 
+army - (n) ሰራዊት 
+arouse - (v) ተበራበረ 
+arrange - (v) ኣዳለወ, ምምዕራይ  
+arrest - (n) ማእሰርቲ 
+arrest - (v) ኣሰረ 
+arrive - (v) በጽሐ 
+art - (n) ጥበብ, ስእሊ 
+artery - (n) ኣርተሪ, ሰራውር 
+article - (n) ዓንቀጽ 
+artificial lake - (n) ጋብላ, ዒላ 
+artist - (n) ጥበበኛ, ሳኣላይ 
+as far as - (adv prep) ክሳብ 
+as many - (adv) ብጣዕሚ 
+as much - (adv) ብጣዕሚ 
+as well - (adv) ከምኡውን 
+ascent - (n) ዕርገት 
+ashamed - (a) ዘሕፍር 
+ashes - (n) ሓሙኹሽቲ 
+ask - (v) ሓተተ 
+assassin - (an) ቀታሊ 
+assassinate - (v) ቀተለ 
+assemble - (v) ኣላገበ, ምግጣም, ምዕራይ
+assembly - (n) ባይቶ, ጉባኤ 
+assert - (v) ኣረጋገጸ 
+assess - (v) ገመተ 
+assign - (v) መዘዘ 
+assist - (v) ሓገዘ 
+assistance - (n) ሓገዝ 
+association - (n) ማሕበር 
+assurance - (n) መተኣማመኒ 
+astonish - (v) ኣገረሀ, ኣገረመ 
+astonished (to be) - (v) ተገረመ 
+astonishment - (n) ድንጽዉና 
+at - (prep) ኣብ
+at last - (adv) ኣብ መዳእታ 
+at least - (adv) ብብዚሒ, ብዉሕድ 
+atmosphere - (n) ሃዋህው 
+attach oneself to - (v) ጠበቐ 
+attachment - (n) ጥብቀት 
+attack - (v) ኣጥቅዐ 
+attempt - (nv) ፈተነ 
+attend - (v) ተኻፈለ 
+attention - (n) ጥንቃቐ, ኣድህብ, ኣስተውዕል
+attentive - (a) ጥንቁቕ, ኣድሃቢ, መስተውዓሊ, መስተውዓሊት
+attentively - (adv) ብጥንቃቐ 
+attorney - (n) ጠበቓ 
+attract - (v) ማረኸ 
+attractiveness - (n) ማርኾት 
+attribute - (v) መዘዘ 
+August - (n) ነሓሰ 
+aunt *father's side* - (n) ኣሞ
+aunt *mother's side* - (n) ሓትነ - ሓትኖ
+author - (n) ደራሲ, ደራሳይ, ጸሓፋይ 
+authority - (n) ሰበ ስልጣን 
+authorize - (v) ኣፍቀደ 
+automatic - (a) ኣውቶማቲክ 
+autumn - (n) ቀውዒ 
+autumnal - (a) ናይ ቀውዒ 
+avenge - (v) ሕነ ፈደየ 
+avenue - (n) ዓብይ ጎደና 
+avert - (v) ፈላለየ 
+avoid - (v) ወገደ 
+awakening - (n) ሰዓት ደወል, ትንሳኤ, ሓዲሽ ምጅማር
+award - (n) ብልጫ 
+aware of, be - (v) ፈለጠ 
+away, take  - (v) ወሰደ 
+away, turn - (v) ኣለየ 
+axe - (n) ፋስ 
+babble - (v) ኣዕዘምዘመ 
+baby - (n) ሕጻን 
+bachelor - (an) ዘይምርዕዉ 
+back *body* - (n) ሕቆ
+back *return* - (n) ድሕሪት
+back away - (v) ደሓረ 
+back, go  - (v) ተመለሰ 
+back, take  - (v) መለሰ 
+background - (n) ማዓሙቕ 
+backward - (n) ድሕሪት 
+bad - (a) ሕማቕ 
+bad luck - (n) ሕማቕ ዕድል
+bag - (n) ሳንጣ 
+baggage - (n) ባልጃ, ኣቑሑ ጉዕዞ 
+bait - (n) መቑለብ ዓሳ 
+baker - (n) ሰንካቲ 
+baker's shop - (n) እንዳ ባኒ 
+balance - (n) ሚዛን 
+balcony - (n) ባልኮን 
+ball - (n) ኩዕሶ 
+ban - (v) ወገደ 
+banana - (n) ባናና 
+band - (n) መጥመሪ 
+bandage - (n) ኣተሓኻኸማ, ቺረቶ 
+bandit - (n) ሽፍታ 
+bang - (v) ዘበጠ, ምህራም, ምዝባጥ 
+bang on - (v) ወቕዐ 
+bank - (n) ባንክ 
+banker - (n) ባንከኛ 
+baptism - (n) ጥምቀት 
+bar - (n) መደንደል, ቤት መስተ 
+barbed wire - (n) ትሪኮላታ, እሾኽ ገረብ
+barge - (n) ባርካ 
+bark - (n) ቅላጥ, ቅላጥ ዕንጨይቲ 
+bark - (v) ነብሐ 
+barley - (n) ስገም 
+barn - (n) መኽዘን አኽሊ 
+barometer - (n) ባሮሜተር 
+barrel - (n) መድፍዕ, ፊስቶ 
+barren - (a) መኻን 
+barrier - (n) መጋረዲ 
+barring - (n) ግድብ 
+barrister - (n) ጠበቓ 
+basil - (n) ቤዚል, ባዘሊኮ 
+basin - (n) ጋብላ 
+basket - (n) ዘንቢል 
+bath - (n) ምሕጻብ ነብሲ 
+bathe - (v) ተሓጸበ 
+baton - (n) ዘንጊ 
+battalion - (n) ቦጦሎኒ 
+battle - (n) ውግእ 
+battlefield - (n) ዓውደ ውግእ 
+bazaar - (n) ባዛር, ዕዳጋ 
+be *descriptive* - (v) እዩ
+be *present* - (v) ኣሎ
+beach - (n) ገምገም ባሕሪ 
+bead - (n) ሉል 
+beam - (n) ጩራ 
+bean - (n) ፋጆሊ 
+beans - (n) ባሎንኌ 
+beans stew - (n) ትምቲሞ 
+bear - (n) ድቢ
+bear out - (v) ኣጸረየ 
+beard - (n) ጭሕሚ 
+beast - (n) እንስሳ 
+beat - (v) ሃረመ, ሰዓረ 
+beautiful - (a) ጽቡቕ 
+beauty - (n) ጽባቐ 
+become - (v) ኮነ 
+become rich - (v) ሃብተመ 
+bed - (n) ዓራት 
+bed, v - (v) ደቀሰ 
+bedroom - (n) መደቀሲ ከፍሊ 
+bee - (n) ንህቢ 
+beech - (n) ቢቸ 
+beef - (n) ስጋ ከብቲ 
+beef stew - (n) ኣልጫ, ዝግኒ 
+beehive - (n) ጎጆ ንህቢ 
+beer - (n) ቢራ 
+beet - (n) ቀይሕ ሱር 
+before - (prep) ቅድም 
+before long - (adv) ብቑልጡፍ 
+beg - (v) ለመነ 
+beggar - (n) ለማኒ 
+begin - (v) ጀመረ 
+beginner - (n) ተልምደን 
+beginning - (n) መጀመርታ 
+behave - (v) ትኣደበ 
+behind - (adv) ብድሕሪ 
+belief - (n) እምነት 
+believe - (v) ኣመነ 
+bell - (n) ቃጭል 
+belly - (n) ከብዲ 
+below - (adv) ኣብ ትሕቲ 
+belt - (n) ቁልፊ 
+bench - (n) ባንኮ 
+bend - (v) ዓጸፈ 
+bend down - (v) ደነነ 
+benefit - (n) ረብሓ 
+benevolence - (n) ሕያውነት 
+benevolent - (a) ሕያዋይ 
+berry - (n) ነብሒ 
+betray - (v) ከድዐ 
+beverage - (n) መስተ 
+bicycle - (n) ብሽክለታ 
+big - (a) ገዚፍ 
+big finger - (n) ዓባይ ዓባይቶ 
+big toe - (n) ዓባይ ዓባይቶ 
+bill - (n) ቅብሊት 
+billion - (n) ቢልዮን 
+bind - (an) ጥማር 
+biology - (n) ባዮሎጂ 
+bird - (n) ጭሩ
+birth, give - (v) ሓረሰት
+birthday - (a) ልደት 
+biscuit - (n) ቢስኮቲ 
+bishop - (n) ኣቡን 
+bit - (n) ቁራጽ 
+bite - (v) ነኸሰ 
+bitter - (a) መሪር 
+bizarre - (a) ዘገርም 
+black - (a) ጸሊም 
+black pepper - (n) በርበረ ጸሊም 
+blackbird - (n) ዋሪ 
+blackboard - (n) ሰሌዳ 
+bladder - (n) ፊሕኛ 
+blame - (v) ከሰሰ 
+blanket - (n) ኮቦርታ 
+blaze - (v) ተቓጸለ 
+bleat *from a sheep* - (v) እምቤዕ በለ
+bleed - (v) ደመየ 
+bless - (v) መረቐ 
+blessing - (n) ምርቓ 
+blind - (a) ዓይነ ስዉር 
+block - (v) ወተፈ 
+blond - (a) ጨዓይ 
+blood - (n) ደም 
+bloody - (a) ደማዊ 
+bloom - (v) ዓምበበ 
+blossom - (n) ዕምባባ 
+blot - (n) ንጣብ ርስሓት 
+blotting paper - (n) ሰታይ ቀለም 
+blouse - (n) ካሚሻ 
+blow - (v) ነፈሰ, ኡፍ በለ 
+blow up - (v) ተባርዐ, ነፍሐ 
+blue - (a) ሰማያዊ 
+board - (n) ፈራዶ 
+boast - (v) ፈከረ 
+boat - (n) መርከብ 
+boathouse - (n) ገበላ 
+bobbin - (n) ቁኒን 
+body - (n) ነብሲ 
+boggy - (a) ጭቃዊ 
+boiled beef - (n) ብሱል ስጋ 
+bomb - (n) ቦምባ 
+bombard - (v) ደብደበ 
+bombardment - (n) ደብዳብ 
+bone - (n) ዓጽሚ 
+bones - (n) ዓጽሚ 
+book - (n) መጽሓፍ 
+booklet - (n) መጽሓፍ ጸብጻብ 
+bookstore - (n) ድኳን መጻሕፍቲ 
+boot - (n) ነዊሕ ሳእኒ
+border - (n) ዶብ 
+boring - (a) መሰልከዊ 
+born, be - (v) ተወለደ 
+borrow - (v) ተለቀሐ 
+boss - (nm) ኣስራሒ 
+bother - (v) ኣጨነቐ 
+bottle - (n) ጥርሙዝ 
+boulevard - (n) ገፊሕ ጎደና 
+boundary - (n) ደረት 
+bouquet - (an) ጥማር 
+boutique - (n) ድኳን 
+box - (n) ሳንዱቕ 
+boy - (n) ወዲ 
+boyhood - (n) ንእስነት 
+brace - (v) ኣሰረ 
+bracelet - (n) በናጅር 
+brain - (n) ሓንጎል 
+branch - (n) ቃራና 
+brass band - (n) ጥሩምበኛታት 
+brave - (a) ተባዕ 
+bravery - (n) ትብዓት 
+bread *flat/unleavened* - (n) ቂጫ
+bread - (n) ባኒ 
+bread, thick unleavened - (n) ጐጐ
+breadth - (n) ስፍሓት 
+break up - (v) ሰበረ 
+breakdown - (n) ስባር 
+breakfast - (n) ቁርሲ 
+breaking open - (n) ስባር 
+breast - (n) ኣፍልቢ, ጡብ 
+breath - (n) ትንፋስ 
+breathe - (v) ኣተንፈሰ 
+breed - (v) ኣዕበየ 
+brick - (n) ሑጡብ 
+bridge - (n) ድልድል 
+brief - (a) ብሓጺሩ 
+briefcase - (n) ቦርሳ 
+bright - (a) ብሩህ 
+brightness - (n) ብራሃን 
+brilliant - (a) ኣንጸባረቒ 
+bring - (v) ኣምጸአ 
+bring close - (v) ቀረበ 
+bringing together - (n) ኣኼባ 
+broad - (a) ገፊሕ 
+brochure - (n) መጽሓፍ ጸብጻብ 
+broom - (n) መኾስተር 
+brother - (n) ሓወ 
+brotherly - (a) ሕውነታዊ 
+brown - (a) ቡናዊ
+brush - (n) ኣስባስላ 
+brutal - (a) ኣረመና 
+bucket - (n) ሳንኮሎ 
+buddy - (n) መሓዛ 
+build - (v) ሃነጸ 
+building - (n) ህንጻ 
+bulb - (n) ኣምፑል 
+bulk - (n) እኩብ 
+bull - (n) ኣርሓ 
+bullet - (n) ጥይት 
+bunch - (an) ጥማር 
+bundle - (n) ጥቕላል ባኮ 
+burden - (n) ጽዕነት 
+burgle - (v) ሰረቐ 
+burial - (n) ቀብሪ 
+burn - (v) ነደደ 
+burning - (a) ዘቃጽል 
+burst - (v) ነቶገ 
+bush - (n) ቆትቋጥ 
+bushy - (a) ጽዑቕ 
+business - (n) ጉዳይ 
+but - (con) ግን, ግና, ጌና
+butcher's shop - (n) እንዳ ስጋ ሓሰማ
+butter - (n) ጠስሚ 
+butter milk - (n) ማይ ጨባ 
+butterfly - (n) ጽምብላሊዕ 
+button - (n) መልጎም 
+buy - (v) ዓደገ 
+buyer - (n) ዓዳጊ 
+buzz - (v) ዚዝ በለ 
+by all means - (adv) ብፍጹም 
+cabbage - (n) ካውሎ 
+cage - (n) ጋብያ 
+cake - (n) ዶልሺ 
+calculate - (v) ጸብጸበ 
+calculation - (n) ገምጋም 
+calculator - (n) መተሓሳሰቢ 
+calendar - (n) ዓውደ ኣዋርሕ 
+calf - (n) ምራኽ, ዳንጋ 
+call - (v) ጸውዐ 
+calm - (v) ሃድአ, (a) ህዱእ 
+camel - (n) ገመል 
+camp - (n) መዓስከር 
+candle - (n) ሽምዓ 
+candy - (n) ካራመለ 
+cane - (n) ምርኩስ 
+cap - (n) ቆቢዕ 
+capable - (a) ኪኢላ 
+capital - (nf) ርእሲ ከተማ 
+captain - (n) ካፒታኖ 
+car - (n) መኪና
+card - (n) ካርታ 
+card game - (n) ጣላዕ 
+cardboard - (n) ካርቶን 
+care - (n) ክንከን 
+care for - (v) ተኸናኸነ 
+career - (n) መስርሕ ሂወት 
+carefully - (adv) ቀስ 
+carefulness - (n) ጥንቃቐ 
+careless - (a) ዘይግደስ 
+caretaker - (n) ሓላው ርሻን 
+carpenter - (n) ናሕሲ ዝሰርሕ 
+carpet - (n) ምንጻፍ 
+carriage - (n) ባጎኒ 
+carrot - (n) ካሮት 
+carry - (v) ተሰከመ 
+carry out - (v) ኣብ ግብሪ ኣውዓለ 
+cart - (n) ካሮሳ 
+carve - (v) ቀረጸ 
+case - (n) ጉዳይ 
+cashier - (n) ተሓዝ ገንዘብ 
+casing - (n) ጋብያ 
+castle - (n) ኣዳራሽ 
+cat - (n) ድሙ 
+catch - (v) ቈለበ 
+catch again - (v) እንደገና ሓዘ 
+caterpillar - (n) ኣብ ጨጎራ 
+cathedral - (n) ቤተ ክርስቲያን 
+Catholic - (a) ኮተሊኽ 
+Catholicism - (n) ኩትልኽና 
+cauliflower - (n) ካውሎ ፍዮሪ, ካውሎ ፊየሪ
+cause - (n) ጠንቂ, ምኽንያት 
+cave - (n) በዓቲ 
+ceiling - (n) ትሕቲ ናሕሲ 
+celebrate - (v) ኣብዓለ 
+celery - (n) ሰዴኖ 
+cement - (n) ቸመንቶ 
+cemetery - (n) መቓብር 
+cent - (n) ሳንቲም 
+center - (n) ማእከል 
+centimetre - (n) ሰንቲ ሜተረ 
+centre of the eye - (n) መርዓት ዓይኒ
+century - (n) ክፍለ ዘመን 
+ceremony - (n) ጽምብል 
+certain - (a) ርግጸኛ 
+certainly - (adv) ብርግጽ 
+certainty - (n) ርግጽነት 
+certificate - (n) ባጀላ 
+certify - (v) መስከረ
+chain - (n) ሰንሰለት 
+chair - (n) ሴዳ, መንበር 
+chalk - (n) ኩርሽ 
+chance - (n) ኣጋጣሚ 
+change - (v) ቀየረ 
+channel - (n) መትረብ 
+chapel - (n) ቤተ ጸሎት 
+chapter - (n) ምዕራፍ 
+character - (n) ፍሉጥ ሰብ 
+charge - (v) ጸዓነ 
+charity - (n) ምጽዋት 
+charm - (n) ምጥውና 
+charming - (a) ምጥው 
+chase - (v) ሃደነ 
+chasm - (n) ጸድፊ 
+chatter - (v) ኣዕለለ 
+chauffeur - (n) ዘዋር መኪና 
+cheat - (v) ኣታለለ 
+check - (v) ኣጸረየ 
+cheek - (n) ኑንጪ, ምዕጉርቲ, ሙዕጉርቲ
+cheer - (v) ኣጨብጨበ 
+cheer up - (v) ኣተባብዐ 
+cheerfulness - (n) ሓጎስ 
+cheese - (n) ፎርማጆ 
+chemistry - (n) ኬሚስትራ 
+cheque - (n) ቸክ 
+cherish - (v) ኣሐንቀቐ 
+cherry tree - (n) ቸሪ ገረብ 
+chest - (n) ኣፍ ልቢ 
+chest of drawers - (n) ኮሞ 
+chestnut - (n) ፍረ ቸስትናት 
+chestnut tree - (n) ገረብ ቸስትናት 
+chick - (n) ጫቚት 
+chicken - (n) ደርሆ, ጫቚት ደርሆ 
+chicken stew - (n) ኣልጫ, ዝግኒ 
+chickpeas - (n) ዓተር 
+chief - (n) ሓለቓ 
+child - (n) ቈልዓ 
+childhood - (v) ሕጻንነት 
+chilly - (a) ቆራሪ 
+chimney - (n) እቶን 
+chimney sweep - (n) ጠቐር ዘጽሪ 
+chin - (n) መንከስ 
+chocolate - (n) ቸኮላታ 
+choice - (n) ምርጫ 
+choir - (n) ጉጅለ ዘመርቲ 
+choose - (v) መረጸ 
+chorus - (n) ዜማ 
+Christian - (a) ክርስትያን 
+Christianity - (n) ክርስትና
+Christmas - (a) ልደት 
+church - (n) ቤተ ክርስቲያን 
+church tower - (n) እንዳ ደወል 
+cigarette - (n) ሽጋራ 
+cinema - (n) ሲነማ 
+circle - (n) ክቢ 
+circulate - (v) ተንቀሳቐሰ 
+circulation - (n) ምዝዋር 
+circumstance - (n) ኩነት 
+circus - (n) ሰርከስ 
+citizen - (n) ዜጋ 
+city dweller - (an) ከተመኛ 
+civil office - (n) ኩነታት መነባብር 
+civilization - (n) ስልጣኔ 
+claim - (v) ተጣረዐ 
+clang - (n) ጫውጫውታ 
+clap - (v) ኣንጨብጨበ 
+clapping - (n) ገምታ 
+clash - (v) ተናጎጸ 
+class - (n) ክፍሊ 
+classical - (a) ክላሲካዊ 
+classmate *female* - (n) ጓል ክፍሊ
+classmate *male* - (n) ወዲ ክፍሊ
+classmate - (n) መማህርተይ 
+clatter - (n) ጫውጫውታ 
+clean - (a) ጽሩይ, ንጹር 
+clean out - (v) ገዓዘ 
+cleanliness - (n) ጽሬት 
+clear - (a) ብሩህ 
+clear away - (v) ኣጽረየ 
+clearly - (a) ጽሩይ ውጹእ 
+clearness - (n) ብራሃን 
+clever - (a) ንፉዕ, ጎራሕ 
+climate - (n) ክሊማ, ንፋስ 
+climb - (v) ደየበ 
+climb again - (v) እንደገና ደየበ 
+cling to - (v) ጠበቐ 
+clinic - (n) ክሊኒክ 
+cloakroom - (n) መቐመጥ ካባ 
+clock - (n) ሰዓት 
+clockmaker - (n) ሰራሕ ሰዓት 
+close - (a) ቀረበ 
+close - (v) ዓጸወ 
+close to, be - (v) ምቅርራብ 
+closed - (a) ዕጽዉ 
+closer, get - (v) ምቅርራብ 
+clothes - (n) ክዳን 
+cloud - (n) ደበና 
+cloud - (v) ጸልመተ 
+cloudy - (a) ደበናዊ 
+clump - (n) ድንኩል
+cluster - (v) ጎጅለ 
+clutter up - (an) ኩምራ 
+coal - (n) ከሰል 
+coast - (n) ወሰን ባሕሪ 
+coat - (n) ካቦት 
+cocoa - (n) ካካው 
+code - (n) ኮድ 
+coffee - (n) ቡን 
+coffin - (n) ሳጹን ሬሳ 
+cold - (a) ቆራሪ 
+colder, get - (v) ዘሓለ 
+collapse - (v) ዓነወ 
+collar - (n) ስልማት ክሳድ 
+collect - (v) ምእካብ 
+collection - (n) እኩብ, እካበ 
+college - (n) ላዕላይ ደረጃ 
+collide - (v) ተናጎጸ 
+colonel - (n) ኮሮነል 
+colonial - (a) መግዛእታዊ 
+colonize - (a) ግዙእ 
+colony - (n) ግዝኣት 
+colour - (n) ሕብሪ 
+colourful - (a) ሕብራዊ 
+colourless - (a) ሕብሪ ዘይብሉ 
+colt - (n) ምሂር 
+column - (n) ዓንዲ 
+comb - (n) መመሸጥ 
+combine - (v) ኣከበ 
+come - (v) መጸ 
+come after - (v) ሰዓበ 
+come alongside - (v) ዓረፈ 
+come back - (v) እንደገና መጸ 
+come down again - (v) እንደገና ወረደ
+come from - (v) ተለዓለ 
+come in - (v) ኣተወ 
+comedy - (n) ኮመዲ 
+comfort - (n) ቅሳነተ 
+comfort - (v) ኣጸናንዐ 
+comfortable - (a) ምቹእ 
+command - (n) ትእዛዝ 
+commanding officer - (n) ኮማንደር
+comment upon - (v) ገለጸ 
+commerce - (n) ንግዲ 
+commercial - (a) ንግዳዊ 
+commercial leavened bread - (n) ባኒ
+commit - (v) ቆጸረ 
+committee - (n) ኣማኸርቲ
+common - (a) ልሙድ 
+commune - (n) ዞባ 
+communication - (n) ርክብ 
+communion - (n) ቁርባን 
+companion - (an) ካልኣይ 
+company - (n) ኣሰናይ 
+compare - (v) ኣመዛዘነ 
+comparison - (n) ምንጽጻር 
+competition - (n) ውድድር 
+complaint - (n) ጥርዓን 
+complete - (a) ምሉእ 
+complicate - (v) ኣሕለኽለኸ 
+compliment - (n) ሞጎስ 
+composition - (n) ድርሰት 
+compost - (n) ድኹዒ 
+computer - (n) ካምፑትር 
+conceal - (v) ሰተረ 
+conceit - (n) ትዕቢት 
+concern - (v) ኣገደሰ 
+concert - (n) ሙዚቃዊ ምርኢት 
+conclude - (v) ፈጸመ 
+conclusion - (n) መደምደምታ 
+condemn - (v) ኮነነ 
+condemnation - (n) ኩነና 
+condition - (n) ኩነታት 
+condolence - (n) ደበስ 
+conduct - (n) ኣንፈት ስራሕ 
+confederation - (n) ፈደረሽን 
+conference - (n) ኣኼባ 
+confess - (v) ተኣመነ 
+confide - (v) ሕድሪ ሃበ 
+confidence - (n) እምነት 
+confirm - (v) ኣረጋገጸ 
+confirmation - (n) ተሃድሶ 
+conflict - (n) ቃልሲ 
+confuse - (v) ኣደናገረ 
+confused - (a) ድንጉር 
+confusion - (n) ጽልግልግ 
+congratulate - (v) እንቋዕ ሓጎሰካ በለ 
+congress - (n) ጉባኤ 
+connect - (v) ኣላገበ 
+connection - (n) ፈለጥቲ 
+conquer - (v) ወረረ 
+conquest - (n) ማርኾት 
+conscience - (n) ሕልና 
+consent - (n) ውዕል 
+consent to - (v) ኣጽደቐ 
+consequence - (n) ሳዕቤን 
+consider - (v) ሓሰበ 
+considerable - (a) ኣገዳሲ 
+consideration - (n) ግምት
+consolation - (n) ምጽንናዕ 
+console - (v) ደበሰ 
+constable - (n) ፖሊስ 
+constant - (a) ቀዋሚ 
+constitute - (v) ኣቖመ 
+construct - (v) ሃነጸ 
+construction - (n) ህንጻ 
+consult - (v) ኣማኸረ 
+consultation - (n) ምይይጥ 
+contact - (v) ተራኸበ 
+contagion - (n) ሕማም ምትሕልላፍ 
+contain - (v) ሓዘ 
+contempt - (n) ንዕቀት 
+content - (a) ድሱት 
+contents - (n) ትሕዝቶ 
+continual - (a) ቀጻሊ 
+continuation - (n) መቐጸልታ 
+continue - (v) ቀጸለ 
+continuous - (a) ቀጻሊ 
+contractor - (n) ሰራሕ ገዛ 
+contradict - (v) ተቓረነ 
+contradiction - (n) ግርጭት 
+contrary - (n) ኣንጻር 
+contribute - (v) ኣብርከተ, ኣበርከተ 
+control - (v) ቍጽጽር 
+convalescence - (n) ጸማልያነት 
+convalescent - (a) ጸማልያ 
+convene - (v) ኣላገበ 
+convenient - (a) ግብራዊ 
+convent - (n) ገዳም 
+convention - (n) ዋዕላ 
+conversation - (n) ዝርርብ 
+converse - (v) ኣዕለለ 
+convert - (v) እምነት ኣለወጠ 
+convert oneself - (v) እምነት ለወጠ 
+conviction - (n) እምነት 
+convince - (v) ኣእመነ 
+cook - (v) ከሸነ 
+cooker - (n) ፎርነሎ 
+cookie - (n) ቢስኮቲ 
+cooking - (n) ክሽነ 
+coolness - (n) ዛሕሊ 
+copper - (n) ነሃሲ 
+copse - (n) ጣሻ 
+copy - (n) ቅዳሕ 
+cordial - (a) ልባዊ 
+corn - (n) ዕፉን, ዑፉን 
+corn bread - (n) ሀንዛ 
+cornea - (n) መርዓት ዓይኒ 
+corner - (n) ኩርናዕ 
+correct - (a) ቅኑዕ
+correctly - (adv) ብትኽክል 
+correspond - (v) ተራኸበ 
+correspondence - (n) ርኽክብ 
+corridor - (n) ኮረደዮ 
+cost - (n) ዋጋ 
+costly - (a) ክቡር 
+cottage cheese - (n) ኣጁቦ 
+cotton - (n) ጡጥ 
+cough - (v) ሰዓለ 
+coughing - (n) ሰዓል 
+councillor - (nm) ኣማኻሪ 
+counsel - (n) ምኽሪ 
+count - (v) ቈጸረ 
+country - (n) ሃገር 
+countrymen - (a) ሃገራዊ 
+countryside - (n) ገጠር 
+couple - (n) ሰብ ሓዳር 
+courage - (n) ሓቦ 
+courageous - (a) ተባዕ 
+courageously - (adv) ብትብዓት 
+course - (n) ኮርስ 
+courthouse - (n) ቤተ ፍርዲ 
+cousin - (n) ወዲ ሓትኖ 
+cousin - (n) ወዲ ሓወቦ 
+cousin - (n) ወዲ ኣሞ 
+cousin - (n) ወዲ ኣኮ 
+cover - (v) ከደነ 
+cover oneself up - (v) ተጎልበበ 
+cover up - (v) ጎልበበ 
+coverage - (n) መኽደኒ 
+cow - (n) ላም 
+cowshed - (n) ደምበ 
+cradle - (n) ዓራት ሕጻን 
+craft - (n) ናይ ስራሕ ክእለት 
+crane - (n) ሰፍሳፊት 
+crawl - (v) ለመመ 
+crazy - (a) ጽልልቲ 
+crazy person - (an) ጽሉል 
+cream - (n) ቅብኣት 
+create - (v) መሃዘ 
+creator - (n) ፈጣሪ 
+creditor - (n) ኣዋዲ 
+cricket - (n) ዕንጭራር 
+crime - (n) ገበን 
+criminal - (an) ገበነኛ 
+criticize - (v) ነቐፈ 
+cross - (n) መስቀል 
+cross - (v) ተሳገረ, ሰገረ 
+crossroads - (n) መስቀላዊ መንገዲ 
+crowd - (n) ጽቕጥቅጥ 
+crown - (n) ኣኽሊል
+crowning - (n) ድፍኣተ ዘውዲ 
+cruel - (a) ሕሱም 
+cruelty - (n) ጭካነ 
+crumb - (n) ርፍራፍ 
+crush - (v) ጨፍለቐ 
+cry - (n) ብኽያት 
+crystal - (n) ሓቒቕ 
+cult - (n) እምነት 
+cultivate - (v) ኮስኮሰ 
+cultivated - (a) ኩስኩስ 
+cultivation - (n) ዘራእቲ 
+cunning - (a) ሃሳይ, ጎራሕ 
+cup - (n) ኩባያ 
+cupboard - (n) ኣርማድዮ 
+cure - (n) ፈውሲ 
+curiosity - (n) ህንጥይና 
+curious - (a) ህንጡይ 
+curly - (a) ኮርዳድ ጸጉሪ 
+current - (a) ህሉው 
+currently - (adv) ኣብዚ ግዜ ዚ 
+curse - (v) ረገመ 
+curtain - (n) መጋረጀ 
+curved - (a) ጥዉይ 
+cushion - (n) መተርኣስ 
+custom - (n) ልምዲ 
+customer - (n) ዓሚል 
+cut - (v) ቈረጸ 
+cut out - (v) ከምከመ 
+cut short - (v) ኣሕጸረ 
+cyclist - (n) ዘዋር ብሽክለታ 
+daily - (a) መዓልታዊ 
+dairy - (n) እንዳ ጸባ 
+dam - (n) ግድብ 
+damage - (n) ጉድኣት 
+dance - (n) ሳዕስዒት 
+dancing - (n) ሳዕስዒት 
+danger - (n) ሓደጋ 
+dangerous - (a) ሓደገኛ 
+dare to do - (v) ደፈረ 
+dark - (an) ጸልማት 
+darken - (v) ጸልመተ 
+darn - (v) ኣዐረየ 
+date - (n) ቆጸራ, ተምሪ 
+dates - (n) ተምሪ 
+daughter - (n) ጓል 
+dawn - (n) ወጋሕታ 
+day - (n) መዓልቲ 
+daytime - (n) መዓልቲ 
+dead - (a) ምዉት 
+dead body - (n) ሬሳ 
+deadline - (n) ድንጓየ
+deafness - (n) ጸማምነት 
+dear - (a) ክቡር 
+death - (n) ሞት 
+debate - (v) ተኻተዐ 
+debris - (n) ርፍራፍ 
+debt - (n) ዕዳ 
+debtor - (n) ተኣዋዲ 
+decease - (v) ሞተ 
+deceased - (a) ምዉት 
+deceive - (v) ከድዐ 
+December - (n) ታሕሳስ 
+decent - (a) ሓቀኛ 
+decide - (v) ወሰነ 
+decision - (n) ውሳኔ 
+deck - (n) መዓሸግ ባብር 
+declaration - (n) ኣዋጅ 
+declare - (v) ኣወጀ 
+decline - (v) ነጸገ 
+decorate - (v) ሰለመ 
+decoration - (n) ስልማት 
+decorative - (a) ስልማታዊ 
+decrease - (v) ኣንኣሰ 
+dedicate - (v) ወፈየ 
+deed - (n) ተግባር 
+deep - (a) ዓሚቝ 
+deer - (n) ዓጋዜን 
+defeat - (n) ስዕረት 
+defeated person - (a) ስዑር 
+defect - (n) ጉድለት 
+defence - (n) ምክልኻል 
+defend - (v) ተኸላኸለ 
+defender - (n) ተኸላኻሊ 
+deforest - (v) ኣበደመ 
+degree - (n) ደረጃ 
+delay - (v) ደንጎየ 
+delicate - (a) ተነቃፊ 
+delicious - (a) ምቁር 
+delight - (n) ፍስሃ 
+delighted *be* - (v) ተሓጎሰ
+deliver - (v) ኣብጽሐ 
+delivery - (n) ዕደላ 
+delivery man - (n) ኣባጻጽሒ 
+delusion - (n) ጽላለ 
+demand - (v) ሓተተ 
+demolish - (v) ኣፍራሰ 
+den - (n) በዓቲ 
+deny - (v) ኣሉ በለ 
+departing ticket - (n) ቲከት መኸዲ 
+departure - (n) ብገሳ, ተበገሶ 
+depend on - (v) ተመርኮሰ 
+deprivation - (n) እገዳ 
+deprive - (v) ኣገደ
+deputy - (n) ወኪል ህዝቢ 
+describe - (v) ገለጸ 
+description - (n) መግለጺ 
+desert - (an) ምድረ በዳ 
+deserve - (v) ተገበአ 
+deserving - (a) ብቑዕ 
+design - (v) ሰኣለ 
+designer - (n) ሰኣሊ 
+desire - (n) ድሌት 
+desire - (v) ደለየ 
+desk - (n) ጠረጰዛ 
+desperate - (a) ተስፋ ዝቖረጸ 
+desperation - (n) ቅብጸተ ተስፋ 
+despise - (v) ነዓቐ 
+destiny - (n) ጽሕፍቶ 
+destroy - (v) ኣዕነወ 
+detach - (v) ፈተሐ 
+determination - (n) ውሳኔ 
+determined - (a) ነቓጽ 
+detest - (v) ጸልአ 
+devastate - (n) ዕንወት 
+develop - (v) ማዕበለ 
+development - (n) ምዕባለ 
+devil - (n) ሰይጣን 
+devotion - (n) ውፉይነት 
+dew - (n) ዛዕዛዕታ 
+diamond - (n) ኣልማዝ 
+dictionary - (n) መዝገበ ቃላት 
+die - (v) ሞተ 
+difference - (n) ፍልልይ 
+different - (a) ዝተፈልየ 
+difficult - (a) ብርቱዕ 
+difficulty - (n) ሽግር 
+dig - (v) ፈሓረ 
+digestive system - (n) ከብዲ 
+dim - (a) ሃሳስ 
+diminish - (v) ኣንኣሰ 
+dining room - (n) መመገቢ ክፍሊ 
+dinner - (n) ድራር 
+diplomatic - (a) ፖለቲካዊ 
+direct - (a) ቀጥታ 
+director - (n) ሓላፊ 
+dirt - (n) ጭቃ 
+dirty - (a) ጭቃዊ, ረሳሕ 
+disadvantage - (n) ጉድኣት 
+disappear - (v) ጠፍአ, ሃለዋት ኣጥፈአ
+disappearance - (n) ጥፍኣት 
+disappointment - (n) ጓሂ 
+disastrous - (a) ሓደገኛ
+discharge - (v) ኣሰናበተ 
+disciple - (n) ሰዓቢ 
+discipline - (n) ስነ ስርዓት 
+disclose - (v) ቀልዐ 
+discomfort - (n) ዘይጥጣሐ 
+discord - (n) ጽልግልግ 
+discourage - (a) ተስፋ ዝቖረጸ 
+discover - (v) ረኸበ 
+discrimination - (n) ፍሉይነት 
+discuss - (v) ተዛተየ 
+discussion - (n) ክትዐ 
+disease - (n) ሕማም 
+disgrace - (v) ሕፍረት 
+dishes - (n) ኣቑሑ መግቢ 
+dismiss - (v) ኣሰነበተ 
+disobedience - (vn) ዘይምእዛዝ 
+disobedient - (a) ዘይምቕሉል 
+disobey - (vn) ዘይምእዛዝ 
+disorder - (n) ፋሕ ዝበለ 
+dispatch - (v) ሰደደ 
+displace - (v) ቦታ ቀየረ 
+display - (n) ምርኢት 
+display - (v) ኣቕረበ 
+displeased - (a) ዘይሕጉስ 
+dissolve - (v) ሓቐቐ 
+distance - (n) ርሕቀት 
+distant - (a) ርሑቕ 
+distinction - (n) ፍሉይነት 
+distract - (v) ኣዘናገዐ 
+distribute - (v) ዓደለ 
+distribution - (n) ዕደላ 
+district - (n) ኣከባቢ 
+distrust - (n) ጥርጣረ 
+disturb - (v) ሃወኸ 
+ditch - (n) ጉድጓድ 
+dive - (v) ተደርገመ 
+divert - (v) ጠወየ 
+divide up - (v) መቐለ 
+division - (n) ምምቃል 
+divorce - (v) ተፋትሐ ሓዳር 
+divorced - (a) ዝተፋትሐ 
+do - (v) ገበረ 
+do away with - (v) ኣጥፈአ 
+do one's best - (v) ጸዓረ 
+do someone’s hair - (v) ዘርገፈ 
+docile - (a) ምእዙዝ 
+doctor - (n) ሓኪም 
+dog - (n) ከልቢ 
+dog house - (n) ገዛ ኸልቢ 
+doll - (n) ባምቡላ 
+dominate - (v) ተቖጻጸረ
+donkey - (n) ኣድጊ 
+door - (n) ማዕጾ 
+doorstep - (n) ደርኩኺት 
+double - (a) ዕጽፊ 
+double - (v) ደረበ 
+doubt - (n) ጥርጥር 
+doubt - (v) ተጠራጠረ 
+dough - (n) ቢሑቕ 
+down, take  - (v) ደምሰሰ 
+dozen - (n) ደርዘን 
+dragon fly - (n) ፈረሰኛ 
+drain - (v) ጸንቀቐ 
+drama - (n) ድራማ 
+dramatic - (a) ድራማዊ 
+draw - (v) ኣንሰሓበ, ሰኣለ 
+draw oneself up - (v) ቀንዐ 
+draw up - (v) ነደፈ 
+draw water - (v) ገለለ 
+drawer - (n) ተመዛዚ 
+drawing - (n) ስእሊ 
+dream - (n) ሕልሚ 
+dream - (v) ሓለመ 
+dress - (n) ጀለብያ 
+dress - (v) ለበሰ 
+dressing - (n) ኣተሓኻኸማ 
+dressmaker - (n) ሰፋይ ክዳን 
+dried - (a) ንቑጽ 
+drink - (v) መሰተ 
+drive - (v) ዘወረ 
+driver - (n) መራሕ መኪና 
+drop - (n) ንጣብ 
+drop - (v) ወደቐ 
+drought - (n) ድርቂ 
+drown - (v) ጠሓለ 
+drowned, be - (v) ጠሓለ 
+drum - (n) ኮቦሮ 
+drunk - (a) ሰኽራም 
+dry - (a) ንቑጽ 
+dry - (v) ኣንቀጸ 
+dryness - (n) ድርቂ 
+duck - (n) ደርሆ ማይ 
+dull - (a) ጎዲም 
+dust - (n) ዶሮና 
+duty - (n) ጉቡእ 
+dwarf - (an) ድንኪ 
+dying - (a) መዋቲ 
+ear - (n) እዝኒ 
+early - (a) ናይ ንጉሆ 
+early - (adv) ብቑልጡፍ 
+ease - (n) ቅሳነተ 
+easily - (adv) ብቐሊል 
+easiness - (n) ቅሊ
+east - (an) ምብራቅ 
+Easter - (n) ፋሲካ 
+easterly - (an) ምብራቅ 
+eat - (v) በልዐ 
+echo - (n) መቓልሕ 
+echo - (v) መቓልሕ ሃበ 
+economics - (n) ዕቃበ 
+economize - (v) ቆጠበ 
+economy - (n) ዕቃበ 
+edge - (n) ወሰን ወሰን 
+editor - (n) ደራሲ 
+educate - (v) መሃረ 
+education - (n) ትምህርቲ 
+effect - (n) ሳዕቤን, ውጽኢት  
+effect - (v) ሳዕቤን 
+effort - (n) ጻዕሪ 
+egg - (n) እንቋቑሖ 
+egoism - (n) ስስዐ 
+eight - (an) ሸሞንተ 
+eighteen - (an) ዓሰርተ ሸሞንተ 
+eighth grade - (n) ሻሙናይ ክፍሊ 
+eighty - (an) ሰማንያ 
+elbow - (n) ኩርናዕ ኢድ 
+eldest - (a) ቦኹሪ 
+elect - (v) መረጸ 
+electrical - (a) ኤለትሪካዊ 
+electricity - (n) ኤለትሪክ 
+elegant - (a) ምልኩዕ 
+elementary school - (n) መባእታ ደረጃ
+elephant - (n) ሓርማዝ 
+eleven - (an) ዓሰርተ ሓደ 
+eleventh grade - (n) ዓሰርተ ሓደ ክፍሊ
+elsewhere - (adv) ኣብ ካልእ ቦታ 
+empire - (n) ንግስነት 
+employ - (v) ኣስረሐ 
+employer - (n) ዋሃብ ስራሕ 
+employment - (n) ስራሕ 
+empty - (a) ጥርሑ 
+encircle - (v) ኣኽበበ 
+encourage - (v) ኣተባብዐ 
+end - (n) መወዳእታ 
+end - (v) ኣቋረጸ 
+enemy - (n) ጸላኢ 
+energetic - (a) ጻዕረኛ 
+energy - (n) ሓይሊ 
+engaged to *get* - (v) ተሓጸየ
+engagement - (v) ሕጸ 
+engine - (n) ሞተር
+engineer - (n) መሃንድስ 
+English - (a) እንግሊዛዊ 
+English - (n) እንግሊዘኛ 
+engrave - (v) ቀረጸ 
+engraving - (n) ቅርጺ 
+enjoy - (v) ደስ በሎ 
+enlarge - (v) ኣዕበየ 
+enormous - (a) ግዙፍ 
+enough - (a adv) እኹል 
+enough, be - (v) ኣኸለ 
+ensure - (v) ኣረጋገጸ 
+enter - (v) ኣተወ 
+enterprise - (n) ወኒነ ትካል 
+entertain - (v) ኣዘናገዐ 
+entirely - (adv) ብምሉኡ 
+entrance - (n) መእተዊ ክፍሊ 
+envelope - (n) ሰታሪት 
+equal - (a) ማዕረ 
+equally - (adv) ከምኡውን 
+equip - (v) ኣዕጠቐ 
+equipment - (n) መሳርሒ 
+eraser - (n) መደምሰስ 
+erect - (v) ኣቕነዐ 
+error - (na) ጌጋ 
+escape - (v) መለቐ 
+especially - (adv) ብፍላይ 
+essay - (nv) ፈተነ 
+essential - (a) ግድነታዊ 
+establish - (v) መሰረተ 
+estimate - (n) ግምት 
+estimate - (v) ግምት 
+eternal - (a) ዘላኣለማዊ 
+eternity - (n) ዘላኣለም 
+evacuate - (v) ኣግዓዘ 
+even - (a) ጽምዲ ቁጽሪ 
+evening - (n) ምሸት 
+event - (n) ፍጻሜ 
+ever - (adv) ብፍጹም 
+everyday - (a) መዓልታዊ 
+everywhere - (adv) ኣብ ኩኡ ቦታ 
+evidence - (n) መረጋገጺ 
+evidence, give - (v) መስከረ 
+exact - (a) ልክዕ 
+exaggerate - (v) ኣጋነነ 
+exam - (n) ምርመራ 
+examine - (v) መርመረ 
+example - (n) ኣብነት 
+exception - (n) ፍሉይነት 
+exceptional - (a) ፍሉይ 
+exchange - (n) ልውውጥ 
+exchange - (v) ተለዋወጠ
+excitement - (n) ምቕስቃስ 
+exclamation - (n) ቃል ኣጋንኖ 
+excuse - (n) ምኽኒት 
+excuse - (v) ይቕረ በለ 
+exercise - (n) ልምምድ 
+exhaust - (v) ኣድከመ 
+exhibit - (v) ዘርገሐ 
+exhibition - (n) ምርኢት 
+exist - (v) ሃለወ 
+existence - (n) ህላዌ 
+exit - (n) መውጽኢ 
+expand - (v) ኣሰፍሐ 
+expect - (v) ተጸበየ 
+expense - (adv n) ወጻኢ 
+expensive - (a) ክቡር 
+experience - (v) ፈለጠ 
+experienced - (a) ፍሉጥ 
+expire - (v) ወደቐ 
+explain - (v) ኣረድአ 
+explanation - (n) መግለጺ 
+explode - (v) ነቶገ 
+express - (v) ገለጸ 
+express train - (n) ቅልጡፍ ባቡር 
+extend - (v) ኣናውሐ 
+extraordinary - (a) ፍሉይ 
+eye - (n) ዓይኒ 
+eyebrow - (n) ሸፋሽፍቲ ዓይኒ, ጨጉሪ ዓይኒ
+eyelash - (n) ቅርኒብ ዓይኒ 
+eyelid - (n) ኮቦሮ ዓይኒ 
+fabric - (n) ዓለባ 
+face - (n) ገጽ 
+face to face - (adv) ገጽ ንገጽ 
+facilitate - (v) ኣቕለለ 
+factory - (n) ቤተ ዕዮ 
+faded - (a) ሃሳስ 
+fail - (v) ፈሸለ, ምውዳቕ, ምትራፍ 
+failed - (a) ወዲቐ, ተሪፈ 
+failure - (n) ፍሽለት 
+faith - (n) እምነት 
+faithful - (a) እሙን 
+fall - (n) ውድቀት 
+fall - (v) ወደቐ 
+fall again - (v) እንደገና ወደቐ 
+fall asleep - (v) ደቀሰ 
+fall back - (v) ደሓረ 
+family - (a) ቤተ ሰባዊ 
+family - (n) ስድራ ቤት 
+famous - (a) ውሩይ 
+fantasy - (n) ባህጊ 
+far - (adv) ርሑቕ
+farewell - (interj) ደሓን ኩን
+farm - (n) ናይ ሕርሻ ገዛ 
+farmer - (n) ሓረስታይ 
+fashion - (n) ቅዲ ሞዳ 
+fast - (a) ቅልጡፍ 
+fasten - (v) ኣሰረ 
+fat - (a) ስቡሕ 
+father - (n) ኣቦ 
+fatigue - (a) ድኹም 
+fault - (na) ጌጋ 
+favourite - (an) ፍትው 
+fear - (n) ፍርሒ 
+fear - (v) ፈርሐ 
+feast - (na) በዓል 
+feather - (n) ክንቲት 
+February - (n) ለካቲት 
+feed - (v) ኣብልዐ 
+feel sorry - (v) ደንገጸ 
+female - (n) ኣንስተይቲ 
+female director - (n) ሓላፊት 
+female guard - (n) ሓላዊት 
+feminine - (a) ኣንስታይ 
+fence - (n) ተኽሊ ሓጹር 
+fertile - (a) ፈራይ 
+fertilizer - (n) ድኹዒ 
+festival - (na) በዓል 
+fever - (n) ረስኒ 
+feverish - (a) ርሱን 
+fiancé - (v) ሕጹይ 
+fiancée - (v) ሕጺቲ 
+field - (n) ጎልጉል 
+fifteen - (an) ዓሰርተ ሓሙሽተ 
+fifth grade - (n) ሓሙሻይ ክፍሊ 
+fifty - (a) ሓምሳ 
+fight - (n) ቃልሲ 
+fighter - (n) ተጋዳላይ 
+figure - (n) ቅርጺ 
+fill up - (v) መለአ 
+film - (n) ፊልም 
+finally - (adv) መወዳእትኢ, ኣብ መዳእታ
+finance - (n) ፊናንስ 
+find - (v) ረከበ 
+fine - (n) መቕጻዕቲ 
+finger - (n) ኣጻብዕ 
+finger nail - (n) ጽፍሪ 
+finger nails - (n) ጽፍሪ ኢድ 
+fingers - (n) አጻብዕቲ ኢድ 
+finish - (v) ወደአ 
+fire - (n) ሓዊ 
+fireman - (n) መጠፈኢ ሓዊ
+firmly - (a) ጽኑዕ 
+first - (a) ቀዳማይ 
+first grade - (n) ቀዳማይ ክፍሊ 
+first name - (n) ስም 
+fish - (n) ዓሳ 
+fish for - (v) ገፈፈ 
+fisher - (n) ገፋፍ ዓሳ 
+fishhook - (n) መቑለብ ዓሳ 
+fist - (n) ዕምኮ 
+fit - (v) ተጋጠመ 
+five - (a) ሓሙሽተ 
+fix - (v) ኣዐረየ 
+flag - (n) ባንደራ 
+flake - (n) ቅርፍቲ 
+flame - (n) ሃልሃልታ 
+flat - (a) ጸፊሕ 
+flatten - (v) ኣጽፈሐ 
+flesh - (n) ስጋ 
+flexibility - (n) ተዓጻጻፍነት 
+flexible - (a) ተዓጻጻፊ 
+flight - (n) ንፍረት 
+float - (v) ተንስፈፈ 
+flood - (v) ኣጥለቕለቐ 
+flour - (n) ሓሪጭ 
+flow - (v) ፈሰሰ 
+flower - (n) ዕምባባ 
+flower - (v) ዓምበበ 
+flu - (n) ኡንፍልወንዛ 
+flute - (n) ሻምብቆ 
+fly - (n) ሃመማ 
+fly away - (v) ነፈረ 
+flying - (n) ንፍረት 
+fog - (n) ግመ 
+foggy - (a) ግማዊ 
+fold - (n) ዕጻፍ 
+fold - (v) ዓጸፈ 
+folk - (n) ሰባት 
+follow - (v) ሰዓበ 
+following - (a) ዝስዕብ 
+food - (n) መግቢ 
+foolish - (a) ዓሻ 
+foot - (n) እግሪ 
+football - (n) ኩእሶ እግሪ 
+footstep - (n) ስጉምቲ 
+forbid - (v) ወገደ 
+force - (n) ሓይሊ 
+forehead - (n) ግንባር 
+foreign - (a) ባእዳዊ 
+foreigner - (an) ወጻእተኛ 
+forest - (n) ጫካ 
+foretell - (v) ኣፍለጠ
+forget - (v) ረሰዐ 
+forgetfulness - (n) ርሳዐ 
+forgive - (v) ይቕረ በለ 
+fork - (n) ፋርከታ 
+form - (n) ቅርጺ 
+formality - (n) ጽምብል 
+formation - (n) ኣቀራርጻ 
+formerly - (adv) ኣብ ሕሉፍ እዋናት 
+fortune - (n) ዕድል 
+forty - (an) ኣርባዓ 
+forward - (v) ሰደደ 
+found - (v) ሰረተ 
+fountain - (n) ፈልፋሊ 
+four - (an) ኣርባዕተ 
+fourteen - (an) ዓሰርተ ኣርባዕተ 
+fourth grade - (n) ራብዓይ ክፍሊ 
+fox - (n) ወኻርያ 
+fragile - (a) ተሰባሪ 
+fragrance - (n) ሽታ ፈረንጂ 
+frankly - (adv) ብቕንዕና 
+frankness - (n) ቅንዕና 
+free - (a) ነጻ 
+freedom - (n) ሓርነት 
+French - (a) ፈረንሳዊ 
+frequent - (a) ተደጋጋሚ 
+frequent - (v) ኣዘውተረ 
+frequently - (adv) ብዝተደጋገመ 
+fresh - (a) ሓዲሽ 
+Friday - (n) ዓርቢ 
+friend - (n) ዓርኪ 
+friendly - (a) ዕርክነታዊ 
+friendship - (n) ዕርክነት 
+frightening - (a) ኣፍራሒ 
+frog - (n) እንቁሮያብ 
+front - (n) ቅድሚት 
+front of, in  - (prep) ቅድም 
+front, in - (adv) ብቕድሚ 
+frost - (n) ኣስሓይታ 
+fruit - (n) ፍረ 
+fruit tree - (n) ተኽሊ ፍረ 
+frying - (n) ቅልዋ 
+fuel - (n) ነዳዲ 
+fulfill - (v) ሰመረ 
+full - (a) ምሉእ 
+fun *have* - (v) ተዘናገዐ
+function - (v) ኣገልገለ 
+fund - (n) እኩብ ገንዘብ 
+fund - (v) ሰረተ 
+funeral - (a) ቀብራዊ 
+funny - (a) መስሓቕ 
+furious - (a) ሓራቖ 
+furnace - (n) ፎርነሎ
+furniture - (n) ኣቕሓ ገዛ 
+future - (n) መጻኢ 
+gain - (n) ረብሓ 
+gallery - (n) ኣዳራሽ 
+game - (n) ጸወታ 
+game of chance - (n) ምጥላዕ 
+gangster - (n) ሽፍታ 
+garden - (n) ጀርዲን 
+garlic - (n) ሽጉርቲ ጻዕዳ 
+gas - (n) ጋዝ 
+gasoline - (n) በንዚን 
+gather - (v) ኣከበ 
+gather honey - (v) ማዓር ኣከበ 
+gathering - (n) ኣኼባ 
+general - (a) ሓፈሻዊ 
+general - (n) ጀነራል 
+generosity - (n) ልውህና 
+generous - (a) ለጋስ 
+genius - (an) ኣስተውዓሊ 
+gentleness - (n) ሕያውነት 
+gently - (adv) ቀስ 
+geography - (n) ጆግራፍ 
+geometrician - (n) ጆመትሪ 
+German - (a) ጅርመናዊ 
+get - (v) ረኸበ 
+get around - (v) ሓለፈ 
+get used to - (v) ለመደ 
+get used to someone - (v) ኣልመደ 
+gift - (n) ህያብ 
+giraffe - (n) ዘራፍ 
+girl - (n) ጓል 
+girlhood - (n) ንእስነት 
+give - (v) ሃበ 
+give an airing - (v) ኣናፈሰ 
+give back - (v) መለሰ 
+gladly - (adv) ደስታ 
+glass - (n) ብርጭቆ 
+gleam - (v) ኣንጸባረቐ 
+glide - (v) ኣንሻተተ 
+gloomy - (a) ትኩዝ 
+glove - (n) ግዋንቲ 
+glue - (n) ኮላ 
+glue - (v) ለጠፈ 
+gnash - (v) ፋሕፈሐ 
+go - (v) ከደ 
+go away - (v) ረሓቐ 
+go beyond - (v) ቀደመ 
+goal - (n) ዕላማ 
+goat - (n) ጢል 
+God - (n) እግዚኣብሄር
+godchild - (n) ጓል ብልግና 
+godfather - (n) ኣባሊገ 
+godmother - (n) ኣባሊገ 
+godson - (n) ወዲ ብልግና 
+goggles - (n) መነጸር 
+gold - (n) ወርቂ 
+good - (a) ጽቡቕ 
+good evening - (n) ከመይ ኣምሲኩም
+good looking - (a) ምልኩዕ 
+good morning - (n interj) ደሓንዶ ሓዲርካ
+goodbye - (interj) ደሓን ኩን 
+goodnight - (interj) ደሓን ሕደር 
+goods - (n) ኣቕሓ 
+goodwill - (n) ጽቡቕ ድሌት 
+gossip - (v) ኣዕለለ 
+government - (n) መንግስቲ 
+grace - (n) ምሕረት 
+grade - (v) ነጥቢ 
+graduate - (v) ምምራቕ 
+graduated - (a) ተመሪቐ 
+grain - (n) እኽሊ 
+gram - (n) ግራም 
+grammar - (n) ስዋስዉ 
+granary - (n) መኽዘን ኽፍሊ 
+grand father - (n) ኣቦሓጎ 
+grand mother - (n) ዓባይ 
+granddaughter *daughter* - (n) ጓል ጓል
+granddaughter *son* - (n) ጓል ወዲ
+grandson *daughter* - (n) ወዲ ጓል
+grandson *son* - (n) ወዲ ወዲ
+grant - (v) ኣፍቀደ 
+grape - (n) ወይኒ 
+grasp - (v) ጸቐጠ, ተረድአ 
+grass - (n) ሳዕሪ 
+grasshopper - (n) ጢል ኣደይ ማርያም
+grateful - (a) ኣመስጋኒ 
+gratitude - (n) ምስጋና 
+grave - (n) መቓብር 
+grazing - (n) ሳዕሪ ምብላዕ 
+grease - (n) ስብሒ 
+great - (a) ዓብዪ, ዓብይ 
+greatly - (adv) ብብዚሒ 
+green - (a) ቀጠልያ 
+green beans - (n) ፋጆሊ 
+green cabbage - (n) ካውሎ 
+green collards - (n) ሓምሊ
+green mustard - (n) ሐምሊ ኣድሪ 
+green onion - (n) ዝቢኢ ሹጉርቲ 
+green pepper - (n) ጉዕ 
+greenery - (n) ለምዒ 
+greet - (v) ተቐበለ 
+greeting - (n) ሰላምታ 
+grey - (a) ሓሙኹሽታይ 
+grief - (n) ሓዘን 
+grilled meat - (n) ጥብሲ 
+grind - (v) ጠሓነ 
+grip - (n) ምሓዝ 
+grocer - (n) በዓል ድኳን 
+grocery - (n) ድኳን 
+ground - (n) ምድሪ 
+group - (n) ጉጅለ 
+group - (v) ጎጅለ 
+grow - (v) ዓበየ 
+grow old - (v) ኣረገ 
+growl - (v) ኣዕዘምዘመ 
+grumble - (v) ኣጉረምረመ 
+guarantee - (n) ውሕስነት 
+guarantee - (v) ተዋሓሰ 
+guard - (n) ሓላዊ, ዘብዐኛ 
+guess - (v) ገመተ 
+guide - (n) መራሒ 
+guilt - (n) ገበን 
+guilty - (a) በደለኛ 
+guilty - (n) ገበነኛ 
+gums - (n) ግርጻን 
+gun - (n) ጠበንጃ 
+gymnastics - (n) ምውስዋስ አካላት 
+habit - (n) ኣመል 
+hail - (v) ኣጨብጨበ 
+hair - (n) ጽምሪ, ጨጉሪ 
+hairdresser - (n) ቀምቃሚ 
+half - (an) ፍርቂ 
+half year - (n) መንፈቕ 
+hammer - (n) ማርተሎ 
+hand - (n) ኢድ 
+hand bell - (n) ቃጭል 
+handful - (n) ዕታሮ 
+handkerchief - (n) መንዲል 
+handshake - (n) ሰላምታ ኢድ 
+hand writing - (n) ጽሕፈት 
+hang up - (v) ኣንጠልጠለ 
+happen - (v) ኮነ 
+happiness - (n) ታሕጓስ 
+happy - (a) ሕጉስ 
+hard - (a) ድሩቕ 
+hare - (n) ማንቲለ በረኻ 
+harm - (n) ጉድለት 
+harmful - (a) ተጓዳኢ
+harmless - (a) ዘይጎድእ 
+harmony - (n) ስምምዕ 
+harvest - (n) ቀውዒ 
+harvest - (v) ቀውዐ 
+harvest grapes - (v) ወይኒ ኣረየ 
+hat - (n) ቆቢዕ 
+hate - (v) ጸልአ 
+hay - (n) ሓሰር 
+hazy - (a) ግማዊ 
+he - (prn) ንሱ 
+head - (n) ኣስራሒት, ርእሲ 
+head - (nm) ኣስራሒ 
+head master - (n) ዳይረክቶር, አማሓዳሪ
+healing - (n) ምሕዋይ 
+health - (n) ጥዕና 
+healthy - (a) ጥዑይ 
+hear - (v) ሰመዐ 
+hearing - (n) ምስማዕ 
+heart - (n) ልቢ 
+heat - (n) ዋዒ 
+heat - (v) ኣውዓየ 
+heater - (n) መሞቒ 
+heating - (n) መውዓይ 
+heavenly - (a) ገነታዊ 
+heavy - (a) ከቢድ 
+heel - (n) ታኮ, ሸኾና እግሪ 
+heels - (n) ኩሩኹሮ 
+height - (n) ቁመት 
+hello - (interj) ሰላም 
+helmet - (n) ቆቢዕ ወታሃደር 
+help - (n) ሓገዝ 
+help - (v) ሓገዘ 
+henhouse - (n) መራብሒ ደርሁ 
+here - (adv) ኣብዚ 
+hero - (n) ቀንዲ ተዋሳኢ 
+heroic - (an) ጀግና 
+hers - (a) ናታ 
+hesitate - (v) ተጠራጠረ 
+hesitation - (n) ጥርጠራ 
+hide - (v) ሐብአ 
+hiding place - (n) መሕብኢ 
+high school - (n) ካልኣይ ደረጃ 
+higher - (a) ላዕላይ 
+hill - (n) ኩርባ 
+hip - (n) ምሕኩልቲ 
+hips - (n) ጎሎ 
+hire - (v) ኣካረየ 
+his - (a) ናቱ 
+history - (n) ታሪኽ
+hit - (v) ወቕዐ 
+hobo - (n) ኮብላሊ 
+hold - (n) ምሓዝ 
+hold - (v) ሓዘ 
+hold up - (v) ደንጎየ 
+hole - (an) ነኳል 
+hole - (n) ጉድጓድ 
+holiday - (na) በዓል 
+holy - (a) ቅዲስ 
+holy - (n) ጻድቕ 
+home - (n) ገዛ 
+homeland - (n) ዓደቦ 
+homeless - (n) ኮብላሊ 
+homemade leavened bread - (n) ሕንባሻ
+honest - (a) ሓቀኛ 
+honesty - (n) ቅንዕና 
+honey - (n) ማዓር 
+honey wine - (n) ሜስ 
+honour - (v) ኣኽበረ 
+honourable - (a) ክቡር 
+hope - (n) ተስፋ 
+hope for - (v) ተተስፈየ 
+horizontal - (a) ግድሞ 
+horn - (n) ቀርኒ 
+horrible - (a) ኣሰንባዲ 
+horse - (n) ፈረስ 
+horse rider - (n) ፈረሰኛ 
+horsemanship - (n) ፈረስ ምስቃል 
+hose - (n) ቱቦ 
+hospitable - (a) ኣአንጋዲ 
+hospital - (n) ሆስፒታል 
+host - (n) ተቐባል ጋሻ 
+hot - (a) ውዑይ 
+hotel - (n) ሆቴል 
+hour - (n) ሰዓት 
+house - (n) ገዛ 
+how - (adv) ከመይ 
+how much - (adv) ክንደይ 
+however - (con) ግን, ግና, ጌና 
+huge - (a) ግዙፍ 
+human - (a) ወዲ ሰብ 
+humanitarian - (a) ሰብኣዊ 
+humanity - (n) ፍጥረት ሰብ 
+humidity - (n) ጠሊ 
+humiliate - (v) ኣናሸወ 
+hump - (n) መንዳዓት 
+hundred - (an) ሚእቲ 
+hundred kilos - (n) ኩንታል 
+hunger - (n) ጥሜት 
+hungry - (a) ጥሙይ
+hunt - (v) ሃደነ 
+hunter - (n) ሃዳናይ 
+hurry - (n) ታህዋኽ 
+hurry - (v) ተሃወኸ 
+hurry up - (v) ቀልጠፈ 
+hurt - (n) ጉድኣት 
+hurt - (v) ጐድአ 
+hurt oneself - (v) ተጎድአ 
+husband - (nm) በዓል ቤት 
+hut - (n) ኣጉዶ 
+hyena - (n) ዝብኢ 
+hygiene - (n) ስነ ጥዕና 
+I - (prn) ኣነ 
+idea - (n) ሓሳብ 
+ideal - (n) ዝሰማማዕ 
+identify - (v) ፈለጠ 
+ignorance - (n) ድንቁርና 
+ignorant - (a) ደንቆሮ 
+ignore - (v) ሻላ በለ 
+ill - (n) ሕሙም 
+illuminate - (v) ኣብረሀ 
+image - (n) ስእሊ 
+imagine - (v) ሓሰበ 
+imitate - (v) ቀድሐ 
+immediately - (adv) ብኡንቡኡ 
+immobile - (a) ዘይንቀሳቐስ 
+impatient *get* - (v) ተሃንጠየ
+importance - (n) ኣድላይነት 
+important - (a) ኣገዳሲ 
+impossibility - (n) ዘይካኣልነት 
+impossible - (a) ዘይካኣል 
+impress - (v) ኣደነቐ 
+improve - (v) ኣመሓየሸ 
+in advance - (a) ኣቐዲምካ ዝግበር 
+in, go  - (v) ጠሓለ 
+incapable - (a) ዘይክእል 
+include - (v) ወሰኸ 
+inconvenience - (v) ጸገመ 
+increase - (v) ወሰኸ 
+indeed - (adv) ብሓቂ 
+independence - (n) ነጻነት 
+independent - (a) ነጻ 
+indicate - (v) ኣመልከተ 
+indigestion - (n) ዘይሕቀት መግቢ 
+industrial - (a) ኡንዱስትሪያዋ 
+industrial area - (a) ዞባ ቤት ዕዮታት
+industrialist - (n) ኡንዱስትሪ 
+inevitable - (a) ዘይተርፍ 
+inevitably - (adv) ግድነት 
+infant - (n) ሕጻን
+infantile - (a) ናይ ሕጻን
+inferior - (a) ታሕታይ 
+infinite - (an) ወሰን ዘአይብሉ 
+inflame - (v) ኣሕረቐ 
+influence - (n) ጽልዋ 
+inform - (v) ኣፍለጠ 
+information - (n) ሓበሬታ, ወረ 
+ingratitude - (n) ዘይምምስጋን 
+inhabitant - (nm) ተቐማጢ 
+inheritance - (n) ውርሻ 
+injure - (v) ጎድአ 
+injure oneself - (v) ተጎድአ 
+injury - (n) ጉድኣት 
+ink - (n) ቀለም 
+ink well - (n) ጥርሙዝ ቀለም 
+innocence - (n) ንጽህና 
+innocent - (a) ንጽህ 
+inquiry - (n) ወረ 
+insect - (n) ሓሰኻ 
+inside - (a) ውሽጢ 
+insist - (v) ብግዲ በለ 
+insoluble - (a) ዘይፍታሕ 
+inspect - (v) በጽሐ 
+inspector - (n) ተቖጻጻሪ 
+institute - (n) ትካል 
+instructive - (a) ሃናጺ 
+instrument - (n) መሳርሒ ኣቕሓ 
+insult - (n) ጸርፊ 
+insult - (v) ጸረፈ 
+intellectual - (a) ምሁር 
+intelligence - (n) ኣስተውዕሎ 
+intelligent - (an) ኣስተውዓሊ 
+intend - (v) ኣመስለ 
+intention - (n) ዕላማ 
+interest - (n) ወለድ 
+interesting - (a) ኣገዳሲ 
+interrupt - (v) ኣቋረጸ 
+intervene - (v) ጣልቃ ኣተወ 
+intestine - (n) መዓንጣ 
+introduce - (v) ኣላለየ 
+introduction - (n) መእተዊ 
+invade - (v) ወረረ 
+invalid - (a) ዋጋ ዘይብሉ 
+invent - (v) መሃዘ 
+invention - (n) ምህዞ 
+investigate - (v) ኣጽንዐ 
+investigation - (n) መርመረ 
+invisible - (a) ዘይረአ 
+invitation - (n) ዕድመ 
+invite - (v) ዓደመ 
+involve - (v) ተኻፈለ
+iron - (n) ሓጺን 
+ironing - (n) እስትራረ 
+irrigate - (v) መስኖወ 
+irritate - (v) ኣሕረቐ 
+island - (n) ደሴት 
+isolate - (v) ፈለየ 
+Italian - (a) ኡጣልያዊ 
+Italian parsley - (n) ፐርሰሜሎ 
+item - (n) ኣቕሓ 
+item of clothing - (n) ክዳን 
+ivory - (n) ስኒ ሓርማዝ 
+ivy - (n) ኣይቢ ዓይነት ሓረግ 
+jacket - (n) ጁባ 
+jacket - (n) ጃኬት 
+jalapeño pepper - (n) ጒዕ 
+jam - (n) ማልመላታ 
+January - (n) ጥሪ 
+jaw - (n) መንጋጋ 
+jealous - (a) ቀናአ 
+jealousy - (n) ቅንኢ 
+Jesus Christ - (n) የሱስ ክርስቶስ 
+jewel - (n) ስልማት 
+job - (n) ስራሕ 
+join - (v) ሰዓበ 
+joke - (n) ላግጺ 
+jostle - (v) ደፋፍአ 
+journal - (n) ጋዜጣ 
+journalist - (n) ጋዜጠኛ 
+journey - (n) ጉዕዞ, መገሻ 
+joy - (n) ደስታ 
+joyful - (a) ድሱት 
+judge - (n) ፈራዲ, ዳኛ, ፈራዳይ 
+judge - (nf) ዓራቒት ፈራዲት 
+judge - (nm) ዓራቓይ 
+judge - (v) ዳነየ, ምፍራድ, ምፍታሕ  
+judgement - (n) ኣንፈት, ፍርዲ, ፍትሒ
+juicy - (a) ፈሳሲ ዘለዎ 
+July - (n) ሓምለ 
+jump - (n) ዝላ 
+jump - (v) ዘለለ 
+junction - (n) መራኸቢ 
+June - (n) ሰነ 
+junior high school - (n)ማእከላይ ደረጃ
+juror - (n) ፈራዲ 
+jury - (n) ፈራዶ 
+just - (a) ልክዕ 
+justify - (v) መግለጺ ሃበ 
+keep - (v) ዓቀበ 
+kennel - (n) ኣጉዶ
+key - (n) መፍትሕ 
+kick - (v) ነድሐ 
+kidney - (n) ኩላሊት 
+kill - (v) ቀተለ 
+kilogram - (n) ኪሎግራም 
+kilometre - (n) ኪሎሜተር 
+kind - (a) ትዑይ 
+kind - (n) ዓይነት 
+kindergarten - (n) መውዓል ህጻናት 
+kindly - (a) ሕያዋይ 
+kindness - (n) ለውሃት 
+king - (n) ንጉስ 
+kingdom - (n) ግዝኣት 
+kingly - (a) ንጉሳዊ 
+kiss - (n) ስዕመት 
+kiss - (v) ሰዓመ 
+kitchen - (n) ክሽነ 
+kitten - (n) ውላድ ድሙ 
+knead - (v) ለወሰ 
+knee - (n) ብርኪ 
+kneel - (v) ተምበርከኸ 
+knew - (a) ፍሉጥ 
+knife - (n) ካራ 
+knight - (n) ፈረሰኛ 
+knit - (v) ኣለመ 
+knock - (v) ሃረመ 
+knot - (n) ቁጻር 
+know - (v) ፈለጠ 
+know how to - (n) ፍልጠት 
+knowledge - (n) ፍልጠት 
+ladder - (n) ኣስካላ 
+lady - (n) ሰበይቲ 
+lair - (n) በዓቲ 
+lake - (n) ቀላይ 
+lamb - (n) ዕየት 
+lamp - (n) ፋኑስ 
+lampshade - (n) ገራድ ብርሃን 
+land - (v) ዓለበ 
+language - (n) ቛንቛ 
+large - (a) ዓብይ, ገዚፍ 
+large intestine - (n) ማዓንጣ 
+last - (a) መጠረሽታ 
+late - (n) ድንጉይ, (a) ዝሓለፈ 
+latecomer - (n) ደንጓዩ 
+lateness - (n adv) ድንጉይ 
+latest - (a) መጠረሽታ 
+laugh - (v) ሰሓቐ 
+laugh, at - (v) ተላገጸ 
+laughter - (n) ሳሓቕ 
+law - (v) ሕጊ 
+lawyer - (n) ጠበቓ 
+lay - (v) ኣቐመጠ
+lay eggs - (v) እንቋቑሖ ወለደት 
+laziness - (n) ትህኪት 
+lazy - (a) ሃካይ 
+lead - (v) ኣምረሐ, መርሐ 
+leader - (n) መራሒ 
+leaf - (n) ቆጽሊ 
+leak - (v) ሞሎቐ 
+lean - (a) ቀጢን 
+lean on - (v) ተደገፈ 
+lean out - (v) ደነነ 
+leap - (v) ነጠረ 
+learn - (v) ተማህረ 
+learned - (n) ሊቕ 
+least - (a adv) ጎደሎ 
+leather - (n) ቆርበት 
+leave - (v) ገደፈ 
+lecture - (n) ስብከት 
+left - (an) ጸጋም 
+left, be - (v) ተረፈ 
+leg - (n) ዳንጋ 
+leg muscles - (n) ሙሕኹልቲ 
+legacy - (n) ውርሻ 
+legend - (n) ኣፈ ታሪኽ 
+legs - (n) ሙሕኹልቲ 
+lemon - (n) ለሚን 
+lemon tree - (n) ገረብ ለሚን 
+lend - (v) ኣለቀሐ 
+lengthen - (v) ኣንወሐ 
+lens - (n) መርዓት ዓይኒ 
+lentils - (n) ብርስን 
+leopard - (n) ነብሪ 
+less - (a adv) ጎደሎ 
+lesson - (n) መጽናዕቲ ትምህርቲ 
+let - (v) ሓደገ 
+letter *alphabet* - (n) ፊደል
+letter - (n) ደብዳቤ 
+letter box - (n) ቦስጣ ሳጹን 
+lettuce - (n) ሳላጣ 
+level - (a) ማዕረ 
+liar - (a) ሓሳዊ 
+liberal - (a) ሰፊሕ ሓሳብ 
+liberty - (n) ሓርነት 
+library - (n) ቤተ ንባብ 
+lick - (v) ለሓሰ 
+lid - (n) መኽደኒ ድስቲ 
+lie - (n) ሓሶት 
+lie - (v) ተጋደመ 
+life - (n) ሂወት 
+lift - (v) ኣልዓለ 
+ligament - (n) ጂማት
+light - (a) ፈኲስ 
+light - (n) ብራሃን 
+light - (v) ኣብረሀ 
+light up - (v) ወለዐ 
+likable - (a) ፍሕሽው 
+like - (adv a) ከም 
+limb - (n) መሓውር 
+lime - (n) ለሚን 
+limit - (n) ደረት 
+limit - (v) ወሰነ 
+line - (n) መስመር 
+linen - (n) ዓለባ 
+lining - (n) ፎደራ 
+link - (n) ሰንሰለት 
+lion - (n) ኣንበሳ 
+lip - (n) ከንፈር 
+liquid - (a) ፈሳሲ 
+list - (n) ዝርዝር 
+listen - (v) ሰምዐ 
+listen to - (v) ኣድመጸ 
+liter - (n) ሊተር 
+literature - (n) ስነ ጽሑፋ 
+little - (a) ንእሽተይ 
+live - (v) ሃለወ 
+liven - (v) ህይወት ሃበ 
+liver - (n) ከብዲ, ጸላም አብዲ 
+living - (a) ሂወታዊ 
+living room - (n) መዕረፊ ክፍሊ 
+load - (n) ጽዕነት 
+load - (v) ጸዓነ 
+loading - (n) ጽዕነት 
+loan - (n) ልቓሕ 
+loan - (v) ኣለቀሐ 
+loathe - (v) ጸልአ 
+local - (a) ዞባዊ 
+locality - (n) ቦታ 
+lock - (n) መሽገጥ 
+lock up - (v) ዓጸወ 
+locomotive - (a) ተንቀሳቓሲ 
+locust - (n) ኣንበጣ 
+loneliness - (n) ጽምዋ, ብሕትውና 
+lonely - (a) ጽምው 
+long - (a) ነዊሕ 
+long - (adv) ነዊሕ ግዝ 
+long sigh - (v) ኣስተንፈሰ 
+long lived - (a) ነዊሕ ጸናሒ 
+look - (v) ተመልከተ 
+look after - (v) ተኸናኸነ 
+look at - (v) ጠመተ 
+loosen - (v) ነቐለ 
+lord - (n) ጎይታ
+lorry - (n) መኪና ጽዕነት 
+lose - (v) ተሳዓረ 
+loser - (a) ስዑር 
+loss - (n) ክስራን 
+loud - (a) ጫውጫውታ ዘለዎ 
+love - (n) ፍቕሪ 
+love - (v) ኣፍቀረ 
+love with, in  - (a) ፍቑር 
+loving - (a) ፍቑር 
+low - (a) ታሕቲ 
+lower - (v) ነከየ, ኣትሓተ 
+luck - (n) ዕድል 
+lunch - (v) ቆረሰ 
+lung - (n) ሳንቡእ 
+lungs - (n) ሳንቡእ 
+luxury - (n) ጣዐሚ 
+machine gun - (n) ማሺን ጋን 
+Madame - (n) ወይዘሮ 
+magical - (a) ሽሕራዊ 
+magnificent - (a) ዘደንቕ 
+mail - (n) ደብዳቤ 
+mailman - (n) ቦስጠኛ 
+main - (a) ቀንዲ 
+maintain - (v) ናበየ 
+maize - (n) ዑፉን 
+make - (v) ገበረ 
+make a hole - (v) ኣንኮለ 
+make bigger - (v) ኣዕበየ 
+make up - (v) ኣቖመ 
+make widely known - (v) ቀልዐ 
+male - (n) ተባዕታይ 
+malicious - (a) ሃሳይ 
+mammal - (n) መጥበዊ 
+man - (n) ሰብኣይ 
+manage - (v) ኣመሓደረ 
+manager - (n) ሓለቓ 
+mandate - (n) ትእዛዝ 
+manifest - (v) ኣግሃደ 
+mankind - (n) ፍጥረት ሰብ 
+manner - (n) ኣገባብ 
+manufacture - (v) ሰርሐ 
+many - (adv) ብዙሕ 
+map - (n) ካርታ 
+marble - (n) ባሊና, እምነ በረድ 
+march - (n) መጋቢት 
+marine - (a) ባሕራዊ 
+maritime - (a) ናይ ባሕሪ 
+mark - (n) ምልክት 
+marriage - (n) መርዓ 
+married *get* - (v) ተመርዓወ
+marry off - (v) ኣመርዓወ 
+marvellous - (a) ዘደንቕ
+mass - (n) ቅዳሴ 
+mass - (n) እኩብ 
+massage - (n) ምድራዝ 
+master - (n) መም ህር 
+match - (n) ክርቢት 
+mate - (nf) ብጸይቲ 
+mate - (nm) ብጻይ 
+material - (n) ኣቑሑ ህንጻ 
+matter - (n) ጉዳይ 
+matter - (v) ኣገደሰ 
+maturity - (n) ብስለት 
+May - (n) ጉንበት 
+mayor - (n) ከንቲባ 
+me - (prn) ኣነ 
+mead - (n) ሜስ 
+meal - (n) ብልዒ 
+mean - (a) ሕሱም 
+measles - (n) ንፍዮ 
+measure - (v) ዓቀነ 
+measurement - (n) ዓቐን 
+meat - (n) ስጋ 
+mechanic - (n) መካኒክ 
+medal - (n) መዳልያ 
+medication - (n) መድሃኒት 
+medicine - (n) ሕክምና 
+medium - (n) ማእከል 
+meet - (v) ተራኸበ 
+meeting - (n) ኣኼባ 
+melt - (v) ሓቐቐ 
+melting - (n) ምሕቃቐ 
+member - (n) ኣባል 
+Member of Parliament - (n) ወኪል ህዝቢ
+memory - (n) ዝኽረት 
+mend - (v) ኣዐረየ 
+mention - (v) ረቝሐ 
+merchant - (n) ነጋዳይ 
+mercy - (n) ምሕረት 
+merit - (n) ብቕዓት 
+messenger - (n) መልእኽተኛ 
+metal - (n) ብረት 
+metallic - (a) ብረታዊ 
+meteorology - (n) ስነ ኣየር 
+meter - (n) ቆጻሪ 
+method - (n) ቀጥዒ 
+metre - (n) ሜተር 
+middle - (a) ማእከላይ 
+middle - (n) ማእከል 
+middle school - (n)ማእከላይ ደረጃ 
+midnight - (n) ፍርቂ ለይቲ
+migrant - (a) ስደተኛ 
+military - (a) ወተሃበራዊ 
+milk - (n) ጸባ 
+milk man - (nm) በዓል ጸባ 
+milk woman - (nf) በዓልቲ ጸባ 
+millimetre - (n) ሚሊ ሜተር 
+mind - (v) ጓሰየ 
+mine - (a prn) ናተይ 
+mineral - (an) ማዕድን 
+minister - (n) ሚኒስተር 
+minor - (a) ንእሽቶ, ንእሽተይ 
+minor - (n) ፈሓር ማዕድን 
+minority - (n) ውሑዳን 
+minute - (n) ደቒቕ 
+miracle - (n) ትኣምር 
+mirror - (n) መስትያት 
+misdemeanour - (n) በደል 
+misfortune - (n) ሕማቕ ዕድል 
+miss - (n) ወይዘሪት 
+miss - (v) ሰሓተ 
+missing, be - (v) ጎደለ 
+missionary - (an) ሰባኺ 
+mistake - (na) ጌጋ 
+Mister - (n) ኣቶ 
+mix - (v) ሓዋወሰ 
+mixed - (a) ሕውስዋስ 
+moan - (n) ጥርዓን 
+mob - (n) ጽቕጥቅጥ 
+mobile - (a) ተንቀሳቓሲ 
+mocking - (a) ሓጫጪ 
+mode - (n) ቅዲ ሞዳ 
+mode of transport - (n) መጓዓዝያ 
+model - (n) ቅዲ 
+modern - (a) ግዚያዊ 
+modest - (a) ምቕሉል 
+modesty - (n) ትሕትና 
+moisture - (n) ጠሊ 
+momentary - (a) ግዚያዊ 
+monastery - (n) ገዳም 
+Monday - (n) ሰኑይ 
+money - (n) ሰልዲ 
+monk - (n) ፈላሲ 
+monkey - (n) ህበይ 
+month - (n) ወርሒ 
+monthly - (a) ወርሓዊ 
+monument - (n) ሓወልቲ 
+moral - (n) ሞራል 
+more - (adv) ዝያዳ 
+more than enough - (adv) ብብዚሒ
+morning - (a) ናይ ንጉሆ
+morning - (n) ንጉሆ 
+mortgage - (n) ልቓሕ 
+mosque - (n) መስጊድ 
+mosquito - (n) ጣንጡ 
+mother - (n) ኣደ 
+motionless - (a) ዘይንቀሳቐስ 
+motive - (n) ምኽንያት 
+motor - (n) ሞተር 
+motorbike - (n) ሞቶ 
+mountain - (n) ጎቦ 
+mountainous - (a) ጎባዊ 
+mouse - (n) ኣንጭዋ 
+mouth - (n) ኣፍ 
+move - (v) ቦታ ቀየረ 
+move away - (v) ረሓቐ 
+move everything out - (v) ገዓዘ 
+moved, be - (v) ደንገጸ 
+much - (adv) ብዙሕ 
+mucus - (n) ንፋጥ 
+mud - (n) ጭቃ 
+muddy - (a) ጭቃዊ 
+mule - (n) በቕሊ 
+multiple - (an) ርባሕ 
+multiplication - (n) ምርባሕ 
+mumps - (n) ጽጌዕ 
+municipal - (a) ምምሕዳር ከተማ 
+murder - (v) ቀተለ 
+murderer - (an) ቀታሊ 
+murderous - (an) ቀታሊ 
+murmur - (v) ኣዕዘምዘመ 
+muscle - (n) ጭዋዳ 
+museum - (n) ቤተ መዘከር 
+mushroom - (n) ቃንጥሻ 
+music - (n) ሙዚቃ 
+musician - (an) ሙዚቀኛ 
+mustard - (n) ሰናፍጭ 
+mutton - (n) ስጋ በጊዕ 
+mysterious - (a) ምስጢራዊ 
+mystery - (n) ምስጢር 
+nail - (n) መስማር 
+nail file - (n) መብረድ 
+naive - (a) ገርሂ 
+narrow - (a) ጽቢብ 
+nastiness - (n) ርግመት 
+nasty - (a) ግናይ 
+national - (a) ሃገራዊ 
+nationality - (n) ዜግነት 
+natural - (a) ባህርያዊ 
+navigate - (v) ሰፈፈ 
+near - (a) ቀረበ 
+nearly - (adv) ጥቓ 
+neat - (a) ጽሩይ
+neatness - (n) ጽሬት 
+necessary - (a) ኣድላይ 
+necessity - (n) ኣድላይነት 
+neck - (n) ክሳድ 
+necktie - (n) ክራባታ 
+need - (v) ደለየ 
+needle - (n) መርፍእ 
+neglect - (v) ሸለል በለ 
+negligence - (n) ሸለልትነት 
+negligent - (a) ዘይግደስ 
+neighbourhood - (n) ጉርብትና 
+neighbouring - (an) ጎረቤት 
+nephew *brother* - (n) ወዲ ሓዊ
+nephew *sister* - (n) ወዲ ሓብቲ
+nest - (n) ገዛ ዑፍ 
+nest - (v) ገዛ ዑፍ ሰርሐ 
+never - (adv) ብፍጹም 
+new - (a) ሓዲሽ 
+new year - (n) ሓዲሽ ዓመት 
+news - (n) ወረ 
+newspaper - (n) ጋዜጣ 
+next - (a) ዝስዕብ 
+next - (adv) ቀጺሉ 
+nice - (a) ሕያዋይ, ጥዑም 
+niece *brother* - (n) ጓል ሓዊ
+niece *sister* - (n) ጓል ሓብቲ
+night - (n) ለይቲ 
+nightstand - (n) ኮመዲኖ 
+night time - (a) ለይታዊ 
+nine - (a) ትሽዓተ 
+nineteen - (an) ዓሰርተ ትሽዓተ 
+ninety - (an) ተስዓ 
+ninth grade - (n) ታሽዓይ ክፍሊ 
+no - (a) እምቢ 
+nobility - (n) ጎይትነት 
+noise - (n) ጫውጫውታ 
+noisy - (a) ጫውጫውታ ዘለዎ 
+normal - (a) ልሙድ 
+north - (na) ሰሜን 
+northern - (na) ሰሜናዊ 
+nose - (n) ኣፍንጫ 
+nostril - (n) መስኮት ኣፍንጫ, መሳኹት ኣፍንጫ
+note - (v) ነጥቢ ሓዘ 
+notebook - (n) ጥራዝ 
+nothing - (adv) ገለኳ 
+notice - (n) ምልክታ 
+notify - (v) ኣፍለጠ 
+novel - (n) ልብ ወለድ 
+novelist - (nf) ተራኺት
+novelist - (nm) ተራኺ 
+November - (n) ሕዳር 
+now - (adv) ሕጂ 
+numb - (v) ኣደቀሰ 
+number - (n) ቁጽሪ 
+numerous - (a) ብዙሓት 
+oak - (n) ኦክ 
+oath - (n) ማሕላ 
+obedience - (n) ተኣዛዝነት 
+obedient - (a) እዙዝ 
+obey - (v) ተኣዘዘ 
+objection - (n) ጥርዓን 
+oblige - (v) ኣገደደ 
+observation - (n) ትዕዝብቲ 
+observe - (v) ተዓዘበ 
+obstacle - (n) ዕንቅፋት 
+occasion - (n) ኣጋጣሚ 
+occupy - (v) ሓዘ 
+ocean - (n) ውቅያኖስ 
+October - (n) ጥቅምቲ 
+odd - (a) ዘይጽምዲ ቁጽሪ 
+odour - (n) ጨና 
+off, take  - (v) ነፈረ, ኣልገሰ 
+offence, v - (v) ኣሕረቐ 
+offend - (v) ኣቐየመ 
+offend against - (v) ኣሕረቐ 
+offer - (v) ወፈየ 
+officer - (n) መኮነን 
+official - (a) ወግዓዊ 
+often - (adv) መብዛሕእቱ ግዝ 
+oil - (n) ዘይቲ 
+old - (an) ኣረጊት,  
+old age - (n) እርጋን 
+olive tree - (n) ኣውሊዕ 
+on top - (adv) ኣብ ልዕሊ 
+once again - (adv) እንደገና 
+one - (a) ሓደ 
+one time - (adv) ሓደ ግዜ 
+onion - (n) ሽጉርቲ ቀይሕ 
+only - (a) በይኑ 
+open - (a) ከፋት 
+open - (v) ከፈተ 
+opening - (n) ክፋት, ኣፍ 
+openly - (adv) ብቕንዕና 
+opera - (n) ኦፐራ 
+operate - (v) ጠብሐ 
+operating room - (n) ክፍሊ መጥባሕቲ
+operation - (n) መጥባሕቲ 
+opinion - (n) ርእይቶ 
+opportunity - (n) ኣጋጣሚ
+oppose - (v) ተጻረረ 
+opposite - (n) ኣንጻር 
+orange - (a) ኣራንቺ 
+orange juice - (n) ጹማቕ አራንቺ 
+orange tree - (n) ገረብ ብርትኳን 
+order - (n) ትእዛዝ 
+order - (v) ኣዘዘ 
+ordinarily - (adv) ልሙዳዊ 
+ordinary - (a) ልሙድ 
+organ - (n) ኦርጋን 
+organize - (v) ኣዳለወ 
+oriental - (a) ምብራቃስ 
+origin - (n) መበቆል 
+original - (an) መበቆላዊ 
+orphan - (n) ዘኸታም 
+ostrich - (n) ሰገን 
+otherwise - (adv) እንተዘይኮነ 
+ought - (v) ይግባእ 
+ours - (a prn) ናትና 
+out of tune - (a) ቃና ዘይብሉ 
+outside - (adv n) ወጻኢ 
+oval - (a) ቅርጺ እንቋቒሖ 
+oven - (n) እቶን 
+overcome - (v) ሰዓረ 
+owe - (v) ተኣወደ 
+owl - (n) ጉንጓ 
+own - (v) ኣጥረየ 
+owner - (n) ወናኒ 
+ownership - (n) ዋንነት 
+ox - (n) ብዕራይ 
+package - (n) ጥቕላል ባኮ 
+packing - (n) መጠርነፊ 
+page - (n) ገጽ 
+pail - (n) ሳንኮሎ 
+pain - (n) ቃንዛ 
+pain, be in - (v) ተሳቐየ 
+painful - (a) መቐንዘዊ 
+paint - (v) ሰኣለ 
+painter - (n) ሰኣሊ, ለማጻይ 
+painting - (n) ስእሊ 
+pair - (n) ጽምዲ 
+pal - (n) መሓዛ 
+palace - (n) ኣዳራሽ 
+pale - (a) ጽምልው 
+pale,go - (v) ጻዕደወ 
+palm - (n) ከብዲ ኢድ 
+palm tree - (n) ስየ 
+pan - (n) ድስቲ 
+papaya - (n) ፓፓዮ 
+paper - (n) ወረቐት 
+parachute - (n) ጃንጥላ 
+paragraph - (n) ዓንቀጽ
+parallel - (a) ማዕረ ማዕረ 
+pardon - (n) ምሕረት 
+parent - (n) ወለዲ 
+parish - (n) ቤተ ጸሎት 
+park - (n) መናፈሻ ቦታ 
+park - (v) ጠጠ ኣበለ 
+parking ticket - (n) መቕጻዕቲ 
+participate - (v) ተሳተፈ 
+particular - (a) ፍሉይ 
+particularly - (adv) ብፍላይ 
+partridge - (n) ቆቕሕ 
+pass - (v) ምሕላፍ, ሓለፈ 
+pass on - (v) ኣመሓላለፈ 
+passage - (n) መተሓላለፊ 
+passed - (a) ሓሊፈ 
+passenger - (an) መንገደኛ, ገያሻይ 
+passion - (n) ተምሳጥ 
+past - (n) ሕሉፍ 
+paste - (n) ባስታ 
+pastor - (n) ቀሺ 
+pastry - (n) እንዳ ዶልሺ 
+patch - (v) ለገበ 
+path - (n) መሕለፊ 
+patience - (n) ትዕግስቲ 
+patient - (a) ዓቃል 
+patient - (n) ተሓካሚ 
+pattern - (n) ቅዲ 
+pause - (v) ጠጠው በለ 
+pay - (n) መሃያ 
+pay - (v) ከፈለ 
+pea - (n) ዓይኒ ዓተር 
+peace - (n) ሰላም 
+peaceful - (a) ሰላማዊ 
+peach - (n) ኩኽ 
+peanuts - (n) ፉል 
+pearl - (n) ሉል 
+peas - (n) ዓይኒ ዓተር 
+peck - (v) ወግአ 
+pedestrian - (n) ኣጋር 
+peel - (n) ቅላጥ 
+peel - (v) ቀለጠ 
+pen - (n) ፐሮ 
+penal - (a) ገበናዊ 
+penalty - (n) መቕጻዕቲ 
+pencil - (n) ርሳስ 
+pencil box - (n) እንዳ ርሳስ 
+pendulum clock - (n) ሰዓት መንደቕ
+penknife - (n) ሰንጢ 
+people - (n) ህዝቢ
+pepper - (n) ፐፐሮኒ 
+perfect - (a) ልክዕ 
+perfection - (n) ልክዕነት 
+perfectly - (adv) ብጽፈት 
+perform - (v) ተጻወተ ምዚቃ 
+performance - (n) ሙዚቃዊ ጸወታ 
+period - (n) እዋን 
+permission - (n) ፍቓድ 
+permit - (v) ኣፍቀደ 
+persist - (v) ጸንዐ 
+person - (n) ሰብ 
+personal - (a) ብሕታዊ 
+personnel - (n) ሰራሕተኛታት 
+persuade - (v) ኣእመነ 
+petrol - (n) በንዚን 
+pharmacist - (n) ፋርማሲያዊ 
+pharmacy - (n) ፋርማሲ 
+photograph - (n) ስእሊ 
+photograph - (v) ሰኣለ 
+photographer - (n) ሰኣሊ 
+piano - (n) ፒያኖ 
+pick - (v) ኣረየ 
+pick up - (v) ጠርነፈ 
+pick axe - (n) ኣፍራዛ 
+picture - (n) ስእሊ 
+piece - (n) ቁራጽ 
+pig - (n) ሓሰማ 
+pig farm - (n) መራብሒ ሓሰማ 
+pigeon - (n) ርግቢት 
+piggy bank - (n) ካሳ 
+pill - (n) ከኒና 
+pillow - (n) መተርኣስ 
+pilot - (n) መራሕ ነፋሪት 
+pin - (n) መርፍእ ወረቐት 
+pipe - (n) ቱቦ 
+pit - (n) ጉድጓድ 
+pity - (n) ድንጋጸ 
+place - (n) ቦታ 
+place - (v) ኣንበረ 
+plain - (n) ጎልጉል 
+plan - (n) መደብ 
+plant - (n) ተኽሊ 
+plant - (v) ተኸለ 
+plate - (n) ሸሓኒ 
+platform - (n) መድረክ 
+play - (n) ጸወታ 
+play - (v) ጻውቲ 
+player - (nf) ተጻዋቲት 
+player - (nm) ተጻዋቲ 
+plead - (v) ተማሕጸነ 
+please - (adv) ብኽብረትኩም
+pleasure - (n) ደስታ 
+plug - (n) መኽደኒ 
+plumber - (n) ሰራሕ ቱቦ ማይ 
+pocket - (n) ጁባ 
+poem - (n) ግጥሚ 
+point - (n) ጫፍ, ነጥቢ 
+point out - (v) ኣርኣየ 
+poison - (n) ስሚ 
+poisonous - (a) መርዛም 
+police - (n) ፖሊስ 
+polish - (v) ወልወለ 
+polite - (a) ልዙብ 
+politeness - (n) ትሕትና 
+political - (a) ፖለቲካዊ 
+politician - (n) ፖለቲክ 
+pomp - (n) ፖምፓ 
+pool - (n) ንእሽቶ ቀላይ 
+poor - (a) ድኻ, ነዳይ 
+pope - (n) ጳጳስ 
+popular - (n) ፖፕላር 
+population - (n) ህዝቢ 
+port - (n) ወደብ 
+porter - (n) ረፋዕ 
+portfolio - (n) እንዳ ገንዘብ 
+portrait - (n) ስእሊ 
+position - (n) ኣቀማምጣ 
+possess - (v) ወነነ 
+possession - (n) ዋንነት 
+possible - (a) ዝከኣል 
+possible - (n) ተኽእሎ 
+post card - (n) ካርቶሊና 
+post office - (n) ቦስጣ ቤት 
+postal - (a) ብቦስጣ 
+poster - (n) ፖስተር 
+pot - (n) ጻሕሊ 
+potato - (n) ድንሽ 
+pound - (n) ፍርቂ ኪሎ 
+pour - (v) ከዓወ 
+pour out - (v) ቐድሐ 
+poverty - (n) ድኽነት 
+powder - (n) ባሩድ 
+power - (n) ሓይሊ 
+powerful - (a) ሓያል 
+practical - (a) ግብራዊ 
+practice - (n) ልምምድ 
+practise - (v) ተላመደ 
+praise - (n) ናእዳ 
+pray to - (v) ጸሌየ 
+prayer - (n) ጸሉት 
+preach - (v) ሰበኸ 
+precaution - (n) ጥንቃቐ 
+precise - (a) ልክዕ
+precisely - (adv) ብግቡእ 
+prefer - (v) መረጸ 
+preference - (n) ምርጫ 
+preparation - (n) ቅርርብ 
+prepare - (v) ቀረበ 
+prescribe - (v) ኣዘዘ 
+presence - (n) ህላዌ 
+present - (a) ህሉው 
+president - (n) ኣቦ መንበር 
+press - (n) ማዕከን ወረ 
+press - (v) ጸቐጠ 
+press release - (n) ጋዜጣዊ መግለጺ 
+pretty - (a) ጽቡቕ 
+prevent - (v) ዓገተ 
+previous - (a) ዝሓለፈ, (n adv) ድሮ 
+prey - (n) ተሃዳኒ 
+price - (n) ዋጋ 
+prick - (v) ወግአ 
+prickle - (n) እሾኽ 
+prickly - (a) ኣሻኹ 
+pride - (n) ሓበን 
+priest - (n) ቀሺ 
+primary - (a) መባእታዊ 
+prince - (n) ወዲ ንጉስ 
+princess - (n) ጓል ንጉስ 
+principal - (a) ቀንዲ 
+principal - (n) ዳይረክቶር, አማሓዳሪ 
+principle - (n) መትከል 
+print - (n) ቅርጺ 
+print - (v) ሓተመ 
+prison - (n) ቤተ ማሕቡስ 
+prisoner - (n) ሕቡስ 
+privilege - (n) መሰል 
+probable - (a) ምናልባት 
+problem - (n) ግድል 
+proceed - (v) ንቕድሚት ኣምረሐ 
+proclaim - (v) ኣወጀ 
+produce - (an) ርባሕ 
+produce - (v) ኣፍረየ 
+profession - (n) ሞያ 
+professional - (a) ሞያዊ 
+professor - (n) ፕሮፈሰር 
+profit - (n) መኽሰብ 
+profitable - (a) ረብሓ ዘለዎ 
+program - (n) መደብ 
+progress - (n) ምዕባለ 
+prohibit - (v) ኣገደ 
+promise - (n) መብጽዓ 
+promise - (v) ተመባጸዐ 
+pronounce - (v) ኣድመጸ
+proof - (n) መረጋገጺ 
+property - (n) ዋንነት 
+prophet - (n) ነቢይ 
+prosecution - (n) ክሲ 
+protect - (v) ተኸላኸ 
+protest - (v) ተቓወመ 
+protestant - (an) ከኒሻ 
+proud - (a) ኩሩዕ 
+proudly - (adv) ብኹርዓት 
+prove - (v) ኣእመነ 
+provide - (v) ኣምጸአ 
+provinces - (n) ኣውራጃ 
+provoke - (v) ኣስዓበ 
+public - (a) ህዝባዊ 
+public - (n) ህዝቢ 
+pull - (v) ሰሓበ 
+pumpkin - (n) ዱባ 
+punish - (v) ቀጽዐ, ኣተኻኸለ 
+pupil - (n) መርዓት ዓይኒ 
+purchaser - (n) ዓዳጊ 
+pure - (a) ጽሩይ 
+purr - (v) ሩር በለ 
+pursuit - (n) ክሲ 
+push - (v) ደፍአ 
+push aside - (v) ፈላለየ 
+put - (v) ኣቐመጠ 
+put into words - (v) ገለጸ 
+put out - (v) ኣጥፈአ 
+put out of shape - (v) ኣትሞመ 
+put right - (v) ኣተኻኸለ 
+put up - (v) ክብ ኣበለ 
+quality - (n) ብቕዓት 
+quarter - (n) ርብዒ 
+question - (n) ሕቶ 
+quick - (a) ቅልጡፍ 
+quickly - (adv) ብቑልጡፍ 
+quickness - (n) ቅልጣፈ 
+quiet - (n) ህድኣት, (a) ህዱእ  
+quiet down - (v) ኣህደአ 
+quietly - (adv) ብህድኣት 
+quietness - (a) ህዱእ 
+quiver - (v) ኣንፈጥፈጠ 
+rabbit - (n) ማንቲለ 
+rabbit hutch - (n) ገዛ ማንቲለ 
+race - (n) ቅድድም 
+radiator - (n) መሞቒ 
+radio - (n) ራዲዮ 
+rag - (n) ጨርቂ 
+rage - (n) ቁጠዓ 
+rail - (n) መደንደል 
+rain - (n) ዝናብ
+rain - (v) ዘነበ 
+rainbow - (n) ቀስተ ደመና 
+raise - (v) ኣልዓለ 
+raisins - (n) ዘቢብ 
+rake - (v) ሓግሓገ 
+ranch - (n) ምርባሕ እንስሳ 
+rapid - (a) ቅልጡፍ 
+rare - (adv a) ሳሓቲ 
+rat - (n) ኣንጭዋ 
+rate - (n) ቀረጽ 
+reach - (v) በጽሐ 
+read - (v) ነበበ 
+read again - (v) እንደገና ኣንበበ 
+reader - (nf) ኣንባቢት 
+reader - (nm) ኣንባቢ 
+reading - (n) ንባብ 
+real - (a) ሓቂ 
+reality - (n) ክውንነት 
+reap - (v) እኽሊ ኣኸበ 
+reason - (n) ምኽንያት 
+receipt - (n) ቅብሊት 
+receive - (v) ተቐበለ 
+recent - (a) ቀረባ እዋን 
+recently - (adv) ኣብዚ ቀረባ እዋን 
+reception - (n) መቐበል ጋሻ 
+recess - (n) ዕረፍቲ 
+recognize - (v) ኣለለየ 
+recover - (v) እንደና ረኸበ 
+recovery - (n) ምሕዋይ 
+rectangle - (n) ርቡዕ ኩርናዕ 
+red - (a) ቀይሕ 
+red chilli pepper - (n) በርበረ 
+reduce - (v) ነከየ 
+referee - (n) መንጎኛ 
+reflection - (n) ነጸብራቕ 
+reform - (v) ጸገነ 
+refuse - (v) ኣብየ 
+regain - (v) እንደና ረኸበ 
+region - (n) ከባቢ 
+regret - (n) ጣዕሳ 
+regulation - (n) ስምምዕ 
+rehearsal - (n) ድግማ 
+reject - (v) ነጸገ 
+rejoin - (v) ኣርከበ 
+relative - (n) ዘመድ 
+relaxation - (n) ዕረፍቲ 
+release - (v) ፈተሐ 
+reliable - (a) ርግጸኛ 
+reliance - (n) እምነት 
+relief - (n) ምፍጓስ 
+religion - (n) ሃይማኖት 
+religious - (a) ሃይማኖታዊ
+remain - (v) ተረፈ 
+remark - (n) ብህሊት 
+remedy - (n) መድሃኒት 
+remember - (v) ዘከረ 
+remind - (v) ኣዘከረ 
+remorse - (n) ጣዕሳ 
+remove - (v) ኣልገሰ 
+renew - (v) ኣሐደሰ 
+rent - (n) ክራይ 
+rent - (v) ኣካረየ 
+repair - (v) ኣዐረየ 
+repeat - (v) ደገመ 
+replace - (v) ተክአ 
+reply - (v) መለሰ, ምላሽ ሃበ 
+represent - (v) ወከለ 
+representative - (n) ወኪል 
+reptile - (n) ለማሚ 
+republic - (n) ሩፑብሊክ 
+request - (vn) ጠለበ 
+require - (v) ኣድለየ 
+rescue - (v) ኣድሓነ 
+rescuer - (n) መድሓኒ 
+reserve - (n) ቅሙጥ 
+residence - (n) ትቕመጠሉ ቦታ 
+resist - (v) ተቓወመ 
+resistance - (n) ተቓዉሞ 
+resolution - (n) ውሳኔ 
+resolve - (v) ፈተሐ 
+resources - (n) ሃብቲ 
+respect - (n) ክብረት 
+respect - (v) ኣኸበረ 
+respectful - (a) ኣኽባሪ 
+responsibility - (n) ሓላፍነት 
+rest - (n) ዕረፍቲ 
+rest - (v) ኣዕረፈ 
+restart - (v) እንደገና ጀመረ 
+restaurant - (n) ቤተ ብልዒ 
+result - (n) ውጽኢት 
+retirement - (n) ጥሮታ 
+return - (v) እንደገና መጸ 
+return ticket - (n) ቲከት መምለሲ 
+reunion - (n) ኣኼባ 
+reveal - (v) ቀልዕ 
+revenge - (n) ሕነ 
+reverse - (n) ግምጥልሽ 
+review - (v) ደገመ 
+revolution - (n) ሰዉራ 
+reward - (n) ጻማ 
+rhythm - (n) ረምታ 
+ribs - (n) መሰናግለ
+rice - (n) ሩዝ 
+rich - (a) ሃብታም 
+rid of, get - (v) ወገደ 
+ride - (v) ተወጥሐ 
+rifle - (n) ጠበንጃ 
+right - (a) ቅኑዕ 
+right to vote - (n) መሰል ድምጺ 
+rightly - (adv) ብግቡእ 
+ring - (v) ደወለ 
+rip up - (v) ቀደደ 
+rise - (v) እንደገና ተንሰአ 
+risky - (n) ሓደጋ 
+river - (n) ዋሕዚ 
+road - (n) መንገዲ 
+roast - (n) ጥቡስ ስጋ 
+rob - (v) ዘመተ 
+robbery - (n) ስርቂ 
+rock - (n) ከውሒ 
+rocky - (a) ከውሓዊ 
+roof - (n) ናሕሲ 
+room - (n) ክፍሊ 
+roomy - (a) ሰፊሕ 
+rooster - (n) ደርሆ 
+root - (n) ሱር 
+rope - (n) ገመድ 
+rose - (n) ጽጌረዳ 
+rose bush - (n) ገረበ ጽግረዳ 
+rosemary - (n) ሮዝመሪ 
+rot - (v) መሽመሸ 
+rough - (a) ሓርፋፍ 
+round - (a) ከቢብ 
+round - (n) ክቢ 
+round - (v) ኣኽበበ 
+route - (n) መንገዲ 
+royal - (a) ንጉሳዊ 
+rub - (v) ፋሕፈሐ 
+ruin - (n) ዕንወት 
+rule - (n) ስርዓት 
+ruler - (n) መስመር 
+run - (v) ጎየየ 
+runner - (n) ጎያዩ 
+rural - (a) ገጠራዊ 
+rural area - (n) ሃገረሰብ 
+rush - (v) ቀልጠፈ 
+rush - (v) ተሃወኸ 
+rusty - (a) መራት 
+sack - (n) ሳንጣ 
+sacrament - (n) ቁርባን 
+sacrifice - (n) መስዋእቲ 
+sacrifice - (v) ተሰወአ 
+sad - (a) ጉሁይ
+sadness - (n) ጓሂ 
+safe - (a) ድሕንነት 
+sailing ship - (n) ጋንጽላ መንርከብ 
+sailor - (n) ባሕረኛ 
+saint - (n) ጻድቕ 
+salad - (n) ሳላጣ 
+salary - (n) መሃያ 
+saliva - (n) ጥፍጣፍ 
+salt - (n) ጨዉ 
+sample - (n) መርኣያ 
+sand - (n) ሑጻ 
+satisfy - (v) ኣዐገበ 
+Saturday - (n) ቀዳም 
+save - (v) ኣድሓነ 
+save up - (v) ቆጠበ 
+saving - (n) ውህላለ ገንዘብ 
+saviour - (n) መድሓኒ 
+saw off - (v) ሓርሓረ 
+say - (v) በለ 
+say again - (v) ደገመ 
+scarf - (n) ሻርባ 
+scent - (n) ጨና 
+schedule - (n) ዓውደ ኣዋርሕ 
+school - (n) ቤተ ትምህርቲ 
+school teacher - (n) መም ህር 
+schoolboy - (n) ተማሃራይ 
+schoolgirl - (n) ተማሃሪት 
+science - (n) ሳየንስ 
+science - (n) ኣስተዋጽኦ ፍልጠት 
+scissors - (n) መቐስ 
+score - (v) ነጥቢ 
+scrape - (v) ሓኸኸ 
+scratch - (v) ሓንፈጠ 
+screen - (n) ዓለባ ምርኢት 
+screwdriver - (n) ዘዋር መስኒ 
+script - (n) ጽሕፈት 
+sculpture - (n) ቅርጺ 
+sea - (n) ባሕሪ 
+seal - (n) ማሕተም 
+seam - (n) ስፍየት ክዳን 
+search - (n) ምድላይ 
+search - (v) ደለየ 
+season - (n) ክፍለ ዓመት 
+seat - (n) ኮፍ መበሊ 
+seat - (v) ኣንበረ 
+second grade - (n) ካልኣይ ክፍሊ 
+secondary - (a) ካልኣዊ 
+secondary school - (n) ካልኣይ ደረጃ
+secret - (a) ምስጢር 
+secretary - (n) ጸሐፊ 
+secretary - (n) ጸሓፋይ, ጸሓፊት
+section - (n) ክፍሊ 
+security - (n) ውሕስነት 
+see - (v) ረኣየ 
+seed - (n) ፍረ 
+seem - (v) መሰለ 
+select - (v) መረጸ 
+selection - (n) ምርጫ 
+self confidence - (n) መተኣማመኒ 
+self control - (n) ርግኣት 
+sell - (v) ሸየጠ 
+seller - (n) ሸያጣይ 
+seller - (nf) ሸያጢት 
+send - (v) ስደደ 
+send someone to do something - (v) ለኣኸ
+send to sleep - (v) ኣደቀሰ 
+sender - (n) ሰዳዳይ 
+senior - (an) ሽማግለ 
+sensational - (a) ኣድናቒ 
+sensitive - (a) ተነካኢ 
+separate - (v) ፈለየ 
+separation - (n) ምፍልላይ 
+September - (n) መስከረም 
+serenity - (n) ርግኣት 
+sergeant - (n) ሰርገንቲ 
+seriously - (adv) ብጥንቃቐ 
+servant - (nf) ኣገልጋሊት, ከዳሚት 
+servant - (nm) ኣገልጋሊ 
+serve - (v) ኣገልገለ 
+service - (n) ጽቡቕ ግብሪ 
+set - (v) ኣቐመጠ 
+set right - (v) ኣቕነዐ 
+set up - (v) ኣትከለ, ሰርዐ 
+set up again - (v) ኣቕነዐ 
+settle - (v) ተቖጻጸረ 
+settle down - (v) ኣትከለ 
+seven - (a) ሸውዓተ 
+seventeen - (an) ዓሰርተ ሸውዓተ 
+seventh grade - (n) ሻቡዓይ ክፍሊ 
+seventy - (an) ሰብዓ 
+several - (a) ሓያሎ 
+severity - (n) ጽኑዕ ምክትታል 
+sew - (v) ሰፈየ 
+sewing - (n) ስፍየት ክዳን 
+shade - (n) ጽላሎት 
+shadow - (n) ጽላሎት 
+shake - (v) ነቕነቐ 
+shame - (v) ሕፍረት 
+shameful - (a) ዘሕፍር 
+shape - (n) ቅርጺ
+share - (v) መቐለ 
+sharp - (n) ቅጢን ድምጺ 
+sharpen - (v) ከምከመ 
+shatter - (v) ሰበረ 
+shave - (v) ላጸየ 
+she - (prn) ንሳ 
+sheep - (n) በጊዕ 
+sheep pen - (n) እንዳ ኣባጊዕ 
+sheet - (n) ኣንሶላ 
+sheet paper - (n) ፎልዮ 
+shelter - (v) ዓቀበ 
+shelter, take - (v) ተዓቖበ 
+shepherd - (n) ጓሳ 
+shine - (v) ኣንጸባረቐ 
+shining bright - (a) ኣንጸባረቒ 
+ship - (n) መርከብ 
+shipper - (n) ሰዳዳይ 
+shirt - (n) ካሚሻ 
+shiver - (n) ምንቅጥቃጥ 
+shiver - (v) ኣንቀጥቀጠ 
+shoe - (n) ሳእኒ 
+shoemaker - (n) ሰራሕ ሳእኒ 
+shoes, put on - (v) ሳእኒ ለበሰ 
+shoot - (v) ተኰሰ 
+shore - (n) ደንደስ 
+short - (a) ሓጺር 
+short story - (n) ወረ 
+shortage - (n) ጉዳል 
+shorten - (v) ኣሕጸረ 
+shoulder - (n) መንኩብ 
+shovel - (n) ባዶላ 
+show - (v) ኣርኣየ 
+shower - (n) ዝናብ, ዝናብ መሕጸቢ 
+shudder - (v) ኣንፈጥፈጠ 
+shut - (a) ዕጽዉ 
+shut - (v) ዓጸወ 
+shutter - (n) መጋረጀ 
+shy - (a) ሓፋር 
+sick - (n) ሕሙም 
+sidewalk - (n) መንገዲ ኣጋር 
+sigh - (v) ኡፍ በለ 
+sight - (n) ርእየት 
+sign - (n) ምልክት 
+signal - (n) ምልክት 
+signature - (n) ክታም 
+silence - (n) ጸጥታ 
+silent - (a) ጸጥተኛ 
+silver - (n) ብሩር 
+silvery - (a) ብሩር ዝተቀብአ 
+similar - (a) ዝመስሰል 
+similar - (adv a) ከም
+simple - (a) ቀሊል 
+simplify - (v) ኣቃለለ 
+simply - (adv) ብቐሊል 
+sin - (n) ሓጥያት 
+sincerely - (adv) ብቕንዕና 
+sincerity - (n) ቅንዕና 
+sing - (v) ደረፈ 
+singer - (nf) ደራፊት 
+singer - (nm) ደራፊ 
+single - (an) ዘይምርዕዉ 
+sinister - (a) እከይ 
+sink - (v) ጠሓለ 
+sinus - (n) ስርኖ    
+sister - (n) ሓብቲ 
+sit - (v) ኮፍ 
+sit down - (v) ኮፍ በለ 
+site - (n) ቦታ 
+situation - (n) ኩነታት 
+six - (a) ሽዱሽተ 
+six months - (n) መንፈቕ 
+sixteen - (an) ዓሰርተ ሽዱሽተ 
+sixth grade - (n) ሻዱሻይ ክፍሊ 
+sixty - (an) ስሳ 
+size - (n) ዓቐን 
+skate - (v) ኣንሻተተ 
+skeleton - (n) ኣስካሮን 
+sketch - (n) ንድፊ 
+skilful - (a) ክኢላ 
+skill - (n) ክእለት 
+skilled worker - (n) ሰራሕተኛ 
+skin - (n) ቆርበት 
+skirt - (n) ጎና 
+skull - (n) ሽክና ርእሲ 
+slain - (v) ሓረደ 
+slam - (n) ገምታ 
+slaughter - (v) ሓረደ 
+slave - (an) ባርያ 
+sleep - (n) ድቃስ 
+sleep - (v) ደቀሰ 
+slide - (v) ኣንሻተተ 
+slight - (a) ፈኲስ 
+slightly - (adv) ብቐሊሉ 
+slip - (v) ኣንሻተተ 
+slipper - (n) ሸበጥ 
+slippery - (a) ሸትሕትሖ 
+slope - (n) ቁልቁለት, ዓቐብ 
+slowly - (adv) ብቐስ 
+slowness - (n) ዝሕለት 
+small - (a) ንእሽቶ, ንእሽተይ 
+small finger - (n) ሕንጢል ሕንጥሊቶ
+small intestine - (n) ማዓንጣ
+small toe - (n) ሕንጢል ሕንጥሊቶ 
+smart - (a) ጎራሕ 
+smell - (v) ጨነወ 
+smelting - (n) ምሕቃቐ 
+smile - (n) ፍሽኽታ 
+smile - (v) ፍሽኸታ 
+smoke - (n) ትኪ 
+smoke - (v) ኣትከኸ 
+smooth - (a) ልሙጽ 
+snack - (n) ጠዓሞት 
+snail - (n) ኣረነ 
+snake - (n) ተመን 
+so much - (adv) ብጣዕሚ 
+soak - (v) ኣጥለለ 
+soap - (n) ሳሙና 
+soccer - (n) ኩእሶ እግሪ 
+social - (a) ማሕበራዊ 
+society - (n) ሕብረት ሰብ 
+sock - (n) ካልሲ 
+soft - (a) ልምሉም 
+soil - (n) ባይታ 
+soldier - (n) ወተሃደር 
+sole of the foot - (n) ከብዲ እግሪ 
+solely - (adv) ጥራይ 
+solid - (a) ድሩቕ 
+solution - (n) መፍትሒ 
+solve - (v) ፈተሐ 
+something - (adv) ገለ ነገር 
+sometimes - (adv) ንሓንሳብ 
+son - (n) ወዲ 
+song - (n) ደርፊ 
+soon - (adv) ብቑልጡፍ 
+sore - (n) ቁስሊ 
+sorrow - (n) ጸበባ 
+sorry - (n) ይቕረታ 
+sort - (n) ዓይነት 
+sort - (v) መመየ 
+soul - (n) ነፍሲ 
+sound - (n) ድምጺ 
+soup - (n) መረቕ 
+south - (n) ደቡብ 
+southern - (a) ደብባዊ 
+space - (n) ቦታ 
+spade - (n) ባዶላ 
+spare - (v) ቆጠበ 
+spare time - (n) ግዜ ዕረፍቲ 
+sparing with, be - (v) ቆጠበ 
+sparkle - (v) ኣንጸባረቐ 
+speak - (v) ተዘረበ 
+speaker - (n) ተዛራባይ
+special - (a) ፍሉይ 
+spectator - (nm) ተዓዛቢ 
+speech - (n) ዘረባ 
+speed - (n) ቅልጣፈ 
+spell - (v) ጸሓፈ 
+spend - (v) ሓሸሸ 
+spice - (n) ቀመማት 
+spider - (n) ሳሬት 
+spinach - (n) ሓምሊ, ስፐናቺ 
+spine - (n) ዓንዲ ሕቔ 
+spirit - (n) መንፈስ 
+spit - (v) ጡፍ በለ 
+splendid - (an) ግሩም 
+split up - (v) ነቶገ 
+spoil - (v) ኣባላሸወ 
+spoon - (n) ማንካ 
+sport - (n) ስፖርት 
+spot - (n) ንጣብ ርስሓት 
+spot - (v) ነጠበ 
+spread - (v) ነዝሐ 
+square - (n) ትርብዒት 
+squeeze - (v) ጸሞቐ 
+squirrel - (n) ምጹጽላይ 
+stable - (n) እንዳ ኣፍራስ 
+stadium - (n) እስታዲዩም 
+staff - (n) ሰራሕተኛታት 
+stage - (n) መድረክ 
+stain - (n) ንጣብ ርስሓት 
+staircase - (n) መደያይቦ 
+stairs - (n) መደያይቦ 
+stalk - (n) ጉንዲ 
+stamp - (n) ቲምብር 
+stand - (v) ደው 
+stand up again - (v) ቀንዐ 
+standing - (adv) ጠጠው 
+stapler - (n) ስተፕረ 
+start - (n) መጀመርታ 
+start - (v) ጀመረ 
+state - (n) መንግስቲ 
+statement - (n) ኣዋጅ 
+station - (n) መዕረፍ ባብር 
+statue - (n) ሓወልቲ 
+stay - (n) ጽንሒት 
+stay away from - (v) ቦኾረ 
+steal - (v) ሰረቐ 
+steam - (n) ሃፋ 
+step - (n) ስጉምቲ 
+step back - (v) ኣንሰሓበ 
+step ladder - (n) መሳልል 
+stew lentils - (n) ትምቲሞ 
+stick - (n) በትሪ
+stiff - (a) ነቓጽ 
+still - (adv) ጌና, እንደገና 
+sting - (n) መንከሲ 
+sting - (v) ነኸሰ 
+stir - (v) ዞረ 
+stitch - (v) ሰፈየ 
+stock - (v) ከዘነ 
+Stomach - (n) ከብዲ 
+stone - (n) እምኒ 
+stool - (n) መሳልል 
+stop - (v) ደው ኣበለ 
+store - (n) ድኳን 
+storm - (n) ማዕበል 
+stormy - (a) ማዕበላዊ 
+story - (n) ዛንታ 
+stove - (n) እቶን 
+strange - (a) ዘይፍሉጥ 
+strap - (v) ኣሰረ 
+stream - (n) ዛራ 
+street - (n) ጎደና 
+stretch - (v) መጠጠ 
+strict - (a) ጽኑዕ 
+strictness - (n) ጽኑዕ ምክትታል 
+strike - (v) ወቕዐ 
+stroke - (n) ጎንጺ 
+stroll - (n) መዛወሪ 
+stroller - (n) ተዛዋሪ 
+strong - (a) ሓያል 
+struggle - (n) ቃልሲ 
+student - (nf) ተማሃሪት 
+student - (nm) ተማሃራይ 
+studio - (n) ቤተ ዕዮ 
+study - (n) መጽናዕቲ 
+study - (v) ኣጽንዐ 
+stupid - (a) ደንቆሮ 
+stupidity - (n) ዕሽነት 
+style - (n) ኣገባብ 
+subject - (n) ዛዕባ 
+subscriber - (an) ምዝጉብ 
+subtraction - (n) ምጉዳል 
+suburbs - (n) ጎደቦ 
+succeed - (v) ተዓወተ 
+success - (n) ዓወት 
+suck - (v) መጸየ 
+sudden - (n) ሃንደበት 
+suddenly - (adv) ብሃንደበት 
+suffer - (v) ተሳቐየ 
+suffering - (n) ስቓይ 
+sufficient - (a adv) እኹል 
+sufficient, be - (v) ኣኸለ 
+sugar - (n) ሽኮር 
+suggest - (v) ሓበረ
+suit - (n) ክዳን 
+suitcase - (n) ባልጃ 
+sum - (n) ድምር 
+summer - (n) ሓጋይ 
+summon to law - (v) ኣጸወዐ 
+sun blind - (n) ገራድ ብርሃን 
+Sunday - (n) ሰንበት 
+superintendent - (n) ሓላው ርሻን 
+superior - (a) ብሉጽ 
+supervise - (v) ተዓዘበ 
+supplies - (n) ነገር ንዋት 
+support - (n) መደግፊ 
+support - (v) ደገፈ 
+suppose - (v) መሰሎ 
+suppress - (v) ኣጥፈአ 
+suppression - (n) ምጥፋእ 
+supreme - (a) ዝለዓለ 
+sure - (a) ርግጸኛ 
+sureness - (n) ርግጽነት 
+surprise - (n) ሃንደበት 
+surprising - (a) ሃንደበታዊ 
+surrender - (v) ኡዱ ሃበ 
+surroundings - (n) ጥቓ, ኣከባቢ 
+survive - (v) ደሓነ 
+suspect - (v) ጠርጠረ 
+suspicion - (n) ጥርጥር 
+swallow - (v) ወሓጠ 
+swamp - (n) ዓዘቕቲ 
+swamp - (v) ኣጥለቕለቐ 
+swan - (n) ስዋን 
+swarm - (n) ዕስለ 
+swear - (v) መሓለ 
+sweat - (n) ረሃጽ, ርሀጽ 
+sweat - (v) ረሃጸ 
+sweet - (a) ምቁር 
+swim - (v) ሓምበሰ 
+swimming - (n) ምሕምባስ 
+swing - (n) ሰለል 
+switch - (v) ለወጠ 
+switch on - (v) ወለዐ 
+symbol - (n) ምልክት 
+sympathy - (n) ድንጋጸ 
+system - (n) ቀጥዒ 
+table - (n) ጣውላ 
+tablecloth - (n) መኽደኒ ጣውላ 
+tail - (n) ጭራ 
+take - (v) ወሰደ 
+take off one's hat - (v) ጉልባብ ቀልዐ
+tale - (n) ጽንጽዋይ
+talent - (n) ክእለት 
+tall - (a) ነዊሕ 
+talk - (n) ዘረባ 
+talk - (v) ተዛረበ 
+talk to each other - (v) ተመያየጠ 
+talkative - (a) ሃታፍ 
+tangled - (a) ጽዑቕ 
+tape - (n) መጥመሪ 
+tart - (n) ዶልሺ ፍረታት 
+taste - (v) ጠዓመ 
+tasteless - (a) መቐረት ዘይብሉ 
+tax - (n) ግብሪ 
+taxation - (n) ግብሪ 
+tea - (n) ሻሂ 
+teach - (v) መሃረ 
+teacher - (n) መምህር, ፕሮፈሰር 
+team - (n) ጋንታ 
+tear - (n) ንብዓት 
+tear up - (v) ቀደደ 
+tears - (n) ንብዓት 
+tease - (v) ሓጨጨ 
+teeth - (n) ስኒ 
+teff - (n) ጣፍ 
+telephone - (n) ተለፎን 
+television - (n) ተለቭጅን 
+tell - (v) ነገረ 
+temperature - (n) ሙቐት 
+temple - (n) ቤተ መቕደስ 
+temporalis muscle - (n) መታልሕ 
+temporary - (a) ግዚያዊ 
+temptation - (nv) ፈተነ 
+ten - (an) ዓሰርተ 
+tenant - (n) ተኻራይ 
+tendon - (n) ጂማት 
+tent - (n) ተንዳ 
+tenth - (a) ዓስራይ 
+tenth grade - (n) ዓሽራይ ክፍሊ 
+terrible - (a) ዘሰንብድ 
+terrify - (v) ኣፍረሐ 
+territory - (n) ግዝኣት 
+test - (v) ፈተና 
+testify - (v) መስከረ 
+testimony - (n) ምስክርነት 
+thank - (v) ኣመስገነ 
+thank you - (n) የቐንየለይ 
+thankless - (a) ዘየመስግን 
+that - (prn) እቲ, እቲኣቶም 
+thatched cottage - (n) ኣጉዶ 
+thaw - (n) ምሕቃቐ 
+theatre - (n) ቲያትር 
+theft - (n) ስርቂ
+theirs - (f prn) ናተን 
+theirs - (m prn) ናቶም 
+then - (adv) ቀጺሉ 
+theory - (n) ክልስ ሓሳብ 
+there - (adv) ኣብቲ 
+thermometer - (n) ተርሞመተር 
+they - (f prn) ንሳተን 
+they - (m prn) ንሳቶም 
+thick - (a) ድልዱል 
+thieving - (a) ሰራቒ 
+thigh - (n) ሰለፍ 
+thin - (a) ረቂቕ, ቀጢን 
+thing - (n) ኣቕሓ 
+think - (v) ሓሰበ 
+think up - (v) ገመተ 
+third - (a) ሳልሳይ 
+third - (n) ሲሶ 
+third grade - (n) ሳልሳይ ክፍሊ 
+thirst - (n) ጽምኢ 
+thirsty - (a) ጽሙእ 
+thirteen - (an) ዓሰርተ ሰለስተ 
+thirty - (a) ሰላሳ 
+thorn - (n) እሾኽ 
+thorny - (a) ኣሻኹ 
+thought - (n) ሓሳብ 
+thousand - (na) ሽሕ 
+thread - (n) ፈትሊ 
+threaten - (v) ኣፈራርሀ 
+three - (a) ሰለስተ 
+thrilled, be - (v) ኣንቀጥቀጠ 
+throat - (n) ጎሮሮ 
+throw - (v) ሰንደወ 
+throw back - (v) ነጸገ 
+thunder - (n) ነጎዳ 
+thunder - (v) ነጎደ 
+Thursday - (n) ሓሙስ 
+ticket - (n) ቲከት 
+tidiness - (n) ጽሬት 
+tie - (n) ጥማር 
+tie - (v) ኣሰረ 
+tiger - (n) ነብሪ 
+tight - (a) ጽቢብ 
+tighten - (v) ጸቐጠ 
+tile - (n) መኽደኒ ናሕሲ 
+timber - (n) ኦም 
+time - (n) ግዜ, ሰዓት 
+time allowed - (n) ድንጓየ 
+tiny - (a) ንእሽቶ, ንእሽተይ 
+tip - (n) ጫፍ 
+tire - (n) ጎማ 
+tire - (v) ኣድከመ 
+tiredness - (a) ድኹም
+tiredness - (n) ድኻም 
+title - (n) ኣርእስቲ 
+to try hard - (v) ጸዓረ 
+tobacco - (n) ትንባኾ 
+today - (a) ሎሚ 
+toe - (n) ኣጻዕቲ እግሪ 
+toe nail - (n) ጽፍሪ እግሪ 
+toes - (n) አጻብዕቲ እግሪ 
+toilet - (n) መሕጸቢ ቤት 
+tolerance - (n) ጽሮት 
+tomato - (n) ኮሚደረ 
+tomb - (n) መቓብር 
+tomorrow - (adv) ጽባሕ 
+ton - (n) ቶን 
+tone - (n) ኣገባብ ኣዘራርባ 
+tongue - (n) መልሓስ 
+tonsil - (n) ዓንቐር 
+too - (adv) ከምኡውን 
+too many - (adv) ብዘይመጠን 
+too much - (adv) ብዘይመጠን 
+tool - (n) መተዓየዩ 
+tooth paste - (n) መሕጸብ ስኒ 
+top - (n) ጫፍ 
+topic - (n) ኣርእስቲ 
+torment oneself - (v) ተጨነቐ 
+tortoise - (n) ጎብየ 
+total - (n) ጠቕላላ 
+touch - (n) ትንካፈ 
+touch - (v) ተንከፈ 
+touched, be - (v) ደንገጸ 
+towel - (n) ሽጎማኖ 
+town - (n) ከተማ 
+town hall - (n) መዘጋጃ ቤተ 
+toy - (n) መጻወቲ 
+trace - (n) ኣሰር 
+tractor - (n) ሓራሲት መኪና 
+trade - (n) ንግዲ 
+trader - (n) ነጋዳይ 
+tradition - (n) ልምዲ 
+traditional - (a) ልምዳዊ 
+train - (n) ባቡር 
+train - (v) ተዓለመ 
+transcript - (n) ቅዳሕ 
+transfer - (v) ቦታ ቀየረ 
+transform - (v) ቀየረ 
+transformation - (n) ምልዋጥ 
+translate - (v) ተርጎመ 
+translation - (n) ትርጉም 
+transmit - (v) ኣመሓላለፈ 
+trap - (n) መጻወድያ
+travel - (v) ገሸ 
+traveller - (n) ገያሻይ 
+tray - (n) ጓንተራ 
+treasurer - (n) ተሓዝ ገንዘብ 
+treat - (v) ኣኣንገደ 
+treatment - (n) ሕክምና 
+treaty - (n) ውዕል 
+tree - (n) ገረብ 
+tremble - (v) ኣንቀጥቀጠ 
+tremendous - (a) ተኣምራታዊ 
+trench - (n) ጉድጓድ 
+triangle - (n) ስሉስ ኩርናዕ 
+trip - (n) ጉዕዞ 
+tripe - (n) ጨጎራ 
+triple - (a) ሰለስተ ዕጽፊ 
+troop - (n) ዓሳክር 
+trouble - (n) ሽግር 
+trousers - (n) ስረ 
+truck - (n) መኪና ጽዕነት 
+true - (a) ሓቂ 
+trumpet - (n) ጥሩምባ 
+trunk - (n) ሳንዱቕ 
+trust - (n) እምነት 
+trust - (v) ኣመነ 
+truth - (n) ሓቂ 
+try - (nv) ፈተነ 
+Tuesday - (n) ሰሉስ 
+tuna - (n) ቶኖ ዓሳ 
+tune - (v) ቃነየ 
+tunnel - (n) ገለርያ 
+turkey - (n) ታኪን 
+turn - (v) ተመልሰ 
+turning - (n) ኣንጎሎ 
+turtle - (n) ጎብየ 
+twelfth grade - (n) ዓሰርተ ክልተ ክፍሊ
+twelve - (an) ዓሰርተ ክልተ 
+twenty - (an) ዕስራ 
+twilight - (n) ጽልግልግ 
+two - (an) ክልተ 
+ugly - (a) ግናይ 
+umbrella - (n) ጽላል 
+umpire - (n) መንጎኛ 
+uncle *father's side* - (n) ሓወቦ
+uncle *mother's side* - (n) ኣኮ
+uncommon - (a) ፍሉይ 
+underneath - (adv) ኣብ ትሕቲ 
+underpants - (n) ሙታንታ 
+understand - (v) ተረድአ 
+understood - (a) ፍሉጥ 
+undiluted - (a) ጽሩይ
+undo - (v) ፈተሐ 
+uneven - (a) ጎባጥ 
+unexpected - (a) ዘይተጸበኻዮ 
+unfit - (a) ዘይብቑዕ 
+unfortunate - (a) ቅርሱስ 
+ungrateful - (a) ዘየመስግን 
+unhappy - (a) ዘይሕጉስ 
+union - (n) ሕብረት 
+unite - (v) ኣከበ 
+united - (n) ሕቡራት 
+unity - (n) ሓድነት 
+university - (n) ዩኒቨርስቲ, ላዕላይ ደረጃ
+unknown - (a) ዘይፍሉጥ 
+unload - (v) ኣራገፈ 
+unlucky - (a) ቅርሱስ 
+unmarried - (an) ዘይምርዕዉ 
+unpleasant - (a) ዘየሐጉስ 
+unroll - (v) ዘርገሐ 
+unstick - (v) ነቐለ 
+untie - (v) ፈተሐ 
+until - (adv prep) ክሳብ 
+unwind - (v) ዘርገሐ 
+unworthy - (a) ዘይብቑዕ 
+up to - (adv prep) ክሳብ 
+up, get - (v) ተንሰአ 
+up, give - (v) ብፍቓዱ ገደፈ 
+uphold - (v) ዓቀበ 
+upper arms muscles - (n) ቅልጽም 
+upset - (v) ተጨነቐ 
+urban - (a) ከተማዊ 
+urgent - (a) ህጹጽ 
+urine - (n) ሽንቲ, ችንቲ 
+use - (v) ተጠቐመ 
+useful - (a) ጠቓሚ 
+uterus - (n) ማሕጸን 
+vaccine - (n) ክታቤት 
+value - (n) ዋጋ 
+vanish - (v) ጠፍአ 
+varnish - (v) ቀብአ 
+vegetable - (n) ኣትክልታዊ 
+vegetable stew - (n) ኣልጫ, ዝግኒ 
+vein - (n) ሰራዉር 
+verdict - (n) ፍርዲ 
+verify - (v) ኣጸረየ 
+very much - (adv) ብጣዕሚ 
+veteran - (n) ተጋዳላይ 
+victim - (n) ግዳይ 
+victor - (a) ዕዉት 
+victory - (n) ዓወት 
+view - (n) ርእየት 
+village - (n) ሃገረሰብ
+vinegar - (n) ኣቸቶ 
+violet - (a) ሊላ 
+virgin - (an) ድንግል 
+Virgin Mary - (n) ድንግል ማርያም 
+visible - (a) ዝረአ 
+visit - (n) ምብጻቕ 
+visit - (v) በጽሐ 
+visitor - (n) በጻሒ 
+voice - (n) ድምጺ 
+vote - (v) ኣድመጸ 
+vow - (v) መሓለ 
+vulture - (n) ኣሞራ 
+wage - (n) መሃያ 
+wagon - (n) ባጎኒ 
+wait - (v) ተጸበየ 
+waiter - (nm) ኣሰላፊ 
+waiting room - (n) ክፍሊ መጸበዩ 
+waitress - (nf) ኣሰላፊት 
+wake up - (v) ተበራበረ 
+walk - (n) ዙረት 
+walk - (v) ተዛወረ 
+walker - (n) ተዛዋሪ 
+wall - (n) መንደቕ 
+wanderer - (n) ኮብላሊ 
+wandering - (n) ኩብለላ 
+want - (v) ደለየ 
+war - (n) ውግእ 
+warm - (a) ውዕውዕ 
+warm - (v) ኣውዓየ 
+warmth - (n) ዋዒ 
+warn - (v) ኣጠንቀቐ 
+warning - (n) መጠንቀቕታ 
+was aware of - (a) ፍሉጥ 
+wash oneself - (v) ተሓጸበ 
+wasp - (n) ዕኮት 
+waste - (v) ኣጥፈአ 
+wastebasket - (n) ዘንቢል 
+watch - (n) ሰዓት ኢድ 
+watch - (v) ጠመተ 
+water - (n) ማይ 
+water melon - (n) ብርጭቕ 
+water spray - (n) ንጽጎ ማይ 
+water well - (n) ዒላ 
+wave - (n) ማዕበል 
+wax - (v) ወልወለ 
+way down - (n) ቁልቁለት 
+we - (prn) ንሕና 
+weak - (a) ድኹም 
+weaken - (v) ኣድከመ 
+weakness - (n) ድኻም
+wealth - (n) ሃብቲ 
+wealthy - (a) ሃብታም 
+wear - (v) ለበሰ 
+weather - (n) ንፋስ 
+weave - (v) ኣለመ 
+wedding - (n) መርዓ 
+wedding ring - (n) ካቲም 
+Wednesday - (n) ሮቡዕ 
+weed - (n) ሳዕሪ 
+week - (n) ሰሙን 
+weekly - (a) ሰሙናዊ 
+weight - (n) ሚዛን 
+welcome - (a) ደሓን መጸ 
+welcome, be - (n) ደሓን ምጽ 
+west - (an) ምዕራብ 
+western - (a) ምዕራባዊ 
+wet - (v) ኣጥለለ 
+whale - (n) ዓሳ ኣንበሪ 
+what - (prn) እንታይ 
+wheat - (n) ስርናይ 
+wheel - (n) መንኮርኮር 
+when - (adv) መኣስ 
+whip - (n) ኩርማጅጅ 
+whisper - (n) ሕሹኽሹኽ 
+whisper - (v) ሕሹኽሹኽ በለ 
+whistle - (n) ፊጽፊጽ 
+whistle - (v) ፋጸየ 
+white - (a) ጻዕዳ 
+why - (adv) ስለምንታይ 
+wicked - (a) ሕሱም 
+wide - (a) ገፊሕ 
+widely - (adv) ብብዚሒ 
+widen - (v) ኣግፈሐ 
+widow - (an) ሰብኣያ ዝሞታ, ሰበይቱ ዝመተቶ
+widowed - (an) ሰበይቱ ዝመተቶ, ሰብኣያ ዝሞታ
+widower - (an) ሰበይቱ ዝመተቶ, ሰብኣያ ዝሞታ
+width - (n) ስፍሓት 
+wife - (n) ሰበይቲ 
+wild beasts - (n) ኣራዊት 
+wild boar - (n) መፍለስ 
+will - (n) ድሌት 
+win - (n) ዓወት 
+win - (v) ተዓወተ 
+wind - (n) ንፋስ 
+window - (n) መስኮት 
+wine - (n) ነቢት 
+wine harvest - (n) እርያ ወይኒ 
+wing - (n) መንፈርፈር
+winner - (a) ዕዉት 
+winter - (n) ክረምቲ 
+wintery - (a) ናይ ክረምቲ 
+wisdom - (n) ልቦና 
+wise - (a) ለባም 
+wish - (n) ትምኒት 
+wish for - (v) ተተምነየ 
+withdraw - (v) ኣንሰሓበ 
+witness - (n) ምስክር 
+wolf - (n) ተኹላ 
+woman - (n) ሰበይቲ 
+wonder - (v) ተደነቐ 
+wonderful - (a) ዘደንቕ 
+wood - (n) ዕንጸይቲ 
+woodcutter - (n) ቆራጽ ዕንጸይቲ 
+wool - (n) ጡጥ 
+word - (n) ቃል 
+work - (n) ዕዮ 
+workable - (a) ስራሕ 
+worker - (n) ሸቃላይ 
+workshop - (n) ክፍሊ ስራሕ 
+worm - (n) ሓሰኻ 
+worn - (a) ልባስ 
+worn out - (a) ብላይ 
+worried - (a) ዝተሻቐለ 
+worry - (n) ሸቐልቀል 
+worry - (v) ተጨነቐ 
+worse - (a) ዝኸፍአ 
+worship - (n) እምነት 
+worth - (n) ዋጋ 
+worth, be - (v) ክብሪ ዘለዎ 
+wound - (n) ቁስሊ, መቑሰልቲ 
+wound - (v) ኣቑሰለ, ጎድአ 
+wreck - (v) ኣዕነወ 
+wrinkle - (n) ዕጣሮ 
+wrinkled - (an) ዕጣር 
+write - (v) ጸሓፈ 
+writer - (n) ደራሲ 
+writing - (n) ጽሕፈት 
+yard - (n) ቀጽሪ 
+yarn - (n) ፈትሊ 
+year - (n) ዓመት 
+yearly - (a) ዓመታዊ 
+yellow - (a) ቢጫ 
+yes - (a) እወ 
+yesterday - (adv) ትማሊ 
+yet - (adv) ጌና 
+yogurt - (n) ሩግኦ 
+young - (a) መንእሰይ 
+youth - (n) ንእስነት 
+zeal - (n) ተመስጦ 
+zinc - (n) ዚንጎ
+zoology - (n) ስነ እንስሳ
+zucchini - (n) ዙኪኒ
