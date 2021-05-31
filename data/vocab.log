@@ -1,0 +1,4 @@
+INFO:root:Corpus Vocab:		18134
+INFO:root:HornMorph Vocab:		9835
+INFO:root:Covered Corpus:		9835/18134=54.24%
+INFO:root:Ambiguity Rate:		3661/9835=37.22%
